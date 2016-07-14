@@ -1,0 +1,16 @@
+{
+   "edge" : 483,
+   "edge_type:jump1" : 400,
+   "edge_type:nav_link" : 37,
+   "edge_type:new_tab" : 4,
+   "edge_type:query_idea" : 12,
+   "edge_type:related" : 2,
+   "edge_type:tab_link" : 28,
+   "isolated_node" : 401,
+   "node" : 1062,
+   "node_type:query" : 604,
+   "node_type:topic" : 11,
+   "node_type:url" : 447,
+   "source_node" : 244,
+   "target_node" : 417
+}

@@ -1,0 +1,17 @@
+{
+   "edge_count" : 42571,
+   "name" : 0,
+   "node_count" : 52892,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "text" : "cytoe|cyto0a"
+         }
+      ],
+      "match_undef" : 0
+   },
+   "result" : [],
+   "test" : 0,
+   "testdata" : 1
+}

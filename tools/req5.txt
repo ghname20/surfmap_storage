@@ -1,0 +1,23 @@
+{
+   "expand" : 1,
+   "filters" : [
+      {
+         "end" : "2016-03-08",
+         "filter_type" : "edge",
+         "from" : {
+            "text" : "cytoscape"
+         },
+         "start" : "2016-01-10"
+      },
+      {
+         "end" : "2016-03-08",
+         "filter_type" : "edge",
+         "start" : "2016-01-10",
+         "to" : {
+            "text" : "cytoscape"
+         }
+      }
+   ],
+   "request" : "get_graph_data_with_stats",
+   "request_source" : "popup"
+}

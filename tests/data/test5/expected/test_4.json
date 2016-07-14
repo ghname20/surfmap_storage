@@ -1,0 +1,188 @@
+{
+   "edge_count" : 2067,
+   "node_count" : 3606,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "edge" : {},
+            "filter_type" : "edge",
+            "from" : {
+               "node_type" : "topic",
+               "text" : "test5"
+            },
+            "start" : "2016-01-10",
+            "to" : {}
+         }
+      ],
+      "match_undef" : 0
+   },
+   "result" : [
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13593",
+            "key" : "topic:test5 graph visualisation",
+            "name" : "topic:test5 graph visualisation",
+            "node_type" : "topic",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13594",
+            "key" : "google:test5 graph+visualization+javascript",
+            "name" : "google:test5 graph+visualization+javascript",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "session",
+            "id" : "e13595",
+            "source" : "n13593",
+            "target" : "n13594"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13596",
+            "key" : "url:test5http://stackoverflow.test/questions/7034/graph-visualization-library-in-javascript",
+            "name" : "url:test5http://stackoverflow.test/questions/7034/graph-visualization-library-in-javascript",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump",
+            "id" : "e13597",
+            "source" : "n13594",
+            "target" : "n13596"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13598",
+            "key" : "url:test5http://stackoverflow.test/questions/24396708/zoomable-network-graph-in-angularjs",
+            "name" : "url:test5http://stackoverflow.test/questions/24396708/zoomable-network-graph-in-angularjs",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump",
+            "id" : "e13599",
+            "source" : "n13594",
+            "target" : "n13598"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13600",
+            "key" : "topic:test5 cytoscape.js",
+            "name" : "topic:test5 cytoscape.js",
+            "node_type" : "topic",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13601",
+            "key" : "google:test5 cytoscape.js+tutorial",
+            "name" : "google:test5 cytoscape.js+tutorial",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "session",
+            "id" : "e13602",
+            "source" : "n13600",
+            "target" : "n13601"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13603",
+            "key" : "url:test5http://stackoverflow.test/questions/21650711/live-code-examples-cytoscape-js-initialization-incomplete",
+            "name" : "url:test5http://stackoverflow.test/questions/21650711/live-code-examples-cytoscape-js-initialization-incomplete",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump",
+            "id" : "e13604",
+            "source" : "n13601",
+            "target" : "n13603"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13605",
+            "key" : "url:test5 http://chianti.ucsd.edu.test/~kono/cy3js/",
+            "name" : "url:test5 http://chianti.ucsd.edu.test/~kono/cy3js/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump",
+            "id" : "e13606",
+            "source" : "n13601",
+            "target" : "n13605"
+         },
+         "group" : "edges"
+      }
+   ],
+   "test" : 4,
+   "testdata" : 1
+}

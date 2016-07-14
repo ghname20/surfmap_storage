@@ -1,0 +1,11 @@
+{
+   "expand" : 1,
+   "filters" : [
+      {
+         "filter_type" : "single_node",
+         "from" : {
+            "text" : "^"
+         },
+      },
+   ],
+}

@@ -1,0 +1,248 @@
+{
+   "edge_count" : 461,
+   "node_count" : 1029,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "edge" : {},
+            "filter_type" : "edge",
+            "from" : {
+               "text" : "novosti"
+            },
+            "to" : {
+               "text" : "^"
+            }
+         }
+      ],
+      "match_undef" : 0
+   },
+   "result" : [
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n23",
+            "key" : "google:site:novosti-kosmonavtiki.ru+falcon+9+приземление",
+            "name" : "google:site:novosti-kosmonavtiki.ru+falcon+9+приземление",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "новости: 0.82\nкосмонавтики: 0.77\nжурнал: 0.36\nприземления: 0.34\n2015: 0.27\n1: 0.13\nv1: 0.13\nпосле: 0.13\ndragon: 0.13\nступень: 0.13\nракеты: 0.10\ndec: 0.10\nлео: 0.09\nmil: 0.09\nтонн: 0.09\n",
+            "ts" : "2016.01.07 08:31:29"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n25",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic15003/?PAGEN_1=20",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic15003/?PAGEN_1=20",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.07 08:31:53"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3358",
+            "source" : "n23",
+            "target" : "n25"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n29",
+            "key" : "url:http://novosti-kosmonavtiki.ru/news/30033/",
+            "name" : "url:http://novosti-kosmonavtiki.ru/news/30033/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.07 08:32:19"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3359",
+            "source" : "n23",
+            "target" : "n29"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n32",
+            "key" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+falcon+9",
+            "name" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+falcon+9",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "новости: 0.89\nкосмонавтики: 0.89\nжурнал: 0.33\n2015: 0.24\nэффекта: 0.13\nmay: 0.11\nсообщения: 0.11\n2012: 0.11\nпользователя: 0.11\nэкономического: 0.11\nspacex: 0.09\nэкономической: 0.09\n19: 0.09\nэкономика: 0.07\n5: 0.07\n",
+            "ts" : "2016.01.07 08:45:50"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n34",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=536",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=536",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.07 08:59:04"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3360",
+            "source" : "n32",
+            "target" : "n34"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n36",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic15003/?PAGEN_1=19",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic15003/?PAGEN_1=19",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.07 08:59:44"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3361",
+            "source" : "n32",
+            "target" : "n36"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n41",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=507",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=507",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.07 09:00:04"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3362",
+            "source" : "n32",
+            "target" : "n41"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n53",
+            "key" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+\"30%\"+falcon",
+            "name" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+\"30%\"+falcon",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "новости: 0.94\nжурнал: 0.83\nкосмонавтики: 0.83\n6: 0.22\n9: 0.22\nпредприятия: 0.17\n2015: 0.17\nалюминиево: 0.11\nмногие: 0.11\n2016: 0.11\nкорабли: 0.11\ngenerat: 0.11\n16: 0.11\nдругими: 0.11\n1545к: 0.11\n",
+            "ts" : "2016.01.07 09:10:08"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n55",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/user/14860/post/all/?PAGEN_1=183",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/user/14860/post/all/?PAGEN_1=183",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.07 09:10:31"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3365",
+            "source" : "n53",
+            "target" : "n55"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n61",
+            "key" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+\"10..80+%\"+falcon",
+            "name" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+\"10..80+%\"+falcon",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "новости: 0.82\nкосмонавтики: 0.81\n2015: 0.30\n22: 0.20\n12: 0.17\nжурнал: 0.17\n9: 0.16\n21: 0.14\n11: 0.14\nлет: 0.13\n5: 0.13\n20: 0.10\n25: 0.09\nтонн: 0.09\nпусков: 0.09\n",
+            "ts" : "2016.01.07 09:10:52"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n63",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=439",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=439",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.07 09:11:24"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3366",
+            "source" : "n61",
+            "target" : "n63"
+         },
+         "group" : "edges"
+      }
+   ],
+   "test" : 4,
+   "testdata" : 1
+}

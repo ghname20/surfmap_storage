@@ -1,0 +1,548 @@
+{
+   "edge_count" : 461,
+   "node_count" : 1029,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "edge" : {},
+            "filter_type" : "edge",
+            "from" : {
+               "text" : "cytoe|cyto0a"
+            },
+            "to" : {}
+         }
+      ],
+      "match_undef" : 0
+   },
+   "result" : [
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1441",
+            "key" : "google:cytoscape.js+right+click+canvas",
+            "name" : "google:cytoscape.js+right+click+canvas",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.42\n2015: 0.21\ngraph: 0.19\ncanva: 0.17\njavascript: 0.16\ncontext: 0.14\nlibrari: 0.13\n2014: 0.11\nvisual: 0.11\nlayout: 0.10\nmenu: 0.09\nuse: 0.09\nmay: 0.09\nweb: 0.08\nnode: 0.08\n",
+            "ts" : "2016.01.20 05:20:51"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1443",
+            "key" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjHmNWjzLbKAhVKJnIKHZhnD1EQFggdMAA&url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F31273436%2Fcytoscape-js-add-title-to-whole-complex-right-click-enable&usg=AFQjCNHjOJKrClY9KWsLv0Ea7uuTJz7dnA&sig2=RH72O1flJWyjEcnPL94OuA",
+            "name" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjHmNWjzLbKAhVKJnIKHZhnD1EQFggdMAA&url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F31273436%2Fcytoscape-js-add-title-to-whole-complex-right-click-enable&usg=AFQjCNHjOJKrClY9KWsLv0Ea7uuTJz7dnA&sig2=RH72O1flJWyjEcnPL94OuA",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 05:21:19"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3612",
+            "source" : "n1441",
+            "target" : "n1443"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1445",
+            "key" : "url:http://stackoverflow.com/questions/31273436/cytoscape-js-add-title-to-whole-complex-right-click-enable",
+            "name" : "url:http://stackoverflow.com/questions/31273436/cytoscape-js-add-title-to-whole-complex-right-click-enable",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 05:21:33"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "nav_link",
+            "id" : "e3613",
+            "source" : "n1443",
+            "target" : "n1445"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1448",
+            "key" : "google:cytoscape.js+cxttap",
+            "name" : "google:cytoscape.js+cxttap",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.80\nevent: 0.28\nclick: 0.23\n2015: 0.23\ngraph: 0.23\nright: 0.21\ncreat: 0.15\noct: 0.15\nqtip: 0.13\nblack: 0.13\nscreen: 0.13\nappera: 0.11\noccur: 0.11\n8: 0.10\nnode: 0.10\n",
+            "ts" : "2016.01.20 05:28:27"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3614",
+            "source" : "n1445",
+            "target" : "n1448"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1451",
+            "key" : "google:chrome+extension+canvas+right+click",
+            "name" : "google:chrome+extension+canvas+right+click",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:16"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3615",
+            "source" : "n1441",
+            "target" : "n1451"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1452",
+            "key" : "url:http://stackoverflow.com/questions/18051195/binding-a-click-on-the-canvas-excluding-the-node-edge-cytoscape-js-elements-to",
+            "name" : "url:http://stackoverflow.com/questions/18051195/binding-a-click-on-the-canvas-excluding-the-node-edge-cytoscape-js-elements-to",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 05:29:16"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1454",
+            "key" : "url:http://stackoverflow.com/questions/19115940/adding-cytoscape-node-at-the-location-of-mouse-cursor?rq=1",
+            "name" : "url:http://stackoverflow.com/questions/19115940/adding-cytoscape-node-at-the-location-of-mouse-cursor?rq=1",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:08:45"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3616",
+            "source" : "n1452",
+            "target" : "n1454"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1458",
+            "key" : "google:chrome+extension+right+click+canvas",
+            "name" : "google:chrome+extension+right+click+canvas",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:19"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3617",
+            "source" : "n1441",
+            "target" : "n1458"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1460",
+            "key" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj82-Cp17bKAhVk_HIKHUSODPcQFggdMAA&url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F6789843%2Fdisable-right-click-menu-in-chrome&usg=AFQjCNGZtfhUyhK_AxIw5x18Bu1tpIgb5g&sig2=5PkeIO5Tz2VFRCGKN34PwQ",
+            "name" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj82-Cp17bKAhVk_HIKHUSODPcQFggdMAA&url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F6789843%2Fdisable-right-click-menu-in-chrome&usg=AFQjCNGZtfhUyhK_AxIw5x18Bu1tpIgb5g&sig2=5PkeIO5Tz2VFRCGKN34PwQ",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:44"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3618",
+            "source" : "n1458",
+            "target" : "n1460"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1462",
+            "key" : "url:http://stackoverflow.com/questions/6789843/disable-right-click-menu-in-chrome",
+            "name" : "url:http://stackoverflow.com/questions/6789843/disable-right-click-menu-in-chrome",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:47"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "nav_link",
+            "id" : "e3619",
+            "source" : "n1460",
+            "target" : "n1462"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1464",
+            "key" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwj82-Cp17bKAhVk_HIKHUSODPcQFgg7MAQ&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fenable-right-click%2Fhhojmcideegachlhfgfdhailpfhgknjm%3Fhl%3Den&usg=AFQjCNFEa18jpCaLLXhyOTm6io2TTHFQSw&sig2=4GnctuYlXGvQ0xlsiCDpSw",
+            "name" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwj82-Cp17bKAhVk_HIKHUSODPcQFgg7MAQ&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fenable-right-click%2Fhhojmcideegachlhfgfdhailpfhgknjm%3Fhl%3Den&usg=AFQjCNFEa18jpCaLLXhyOTm6io2TTHFQSw&sig2=4GnctuYlXGvQ0xlsiCDpSw",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:49"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3620",
+            "source" : "n1458",
+            "target" : "n1464"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1466",
+            "key" : "url:https://chrome.google.com/webstore/detail/enable-right-click/hhojmcideegachlhfgfdhailpfhgknjm?hl=en",
+            "name" : "url:https://chrome.google.com/webstore/detail/enable-right-click/hhojmcideegachlhfgfdhailpfhgknjm?hl=en",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:59"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "nav_link",
+            "id" : "e3621",
+            "source" : "n1464",
+            "target" : "n1466"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1469",
+            "key" : "google:cytoscape.js+canvas+contextmenu",
+            "name" : "google:cytoscape.js+canvas+contextmenu",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:11:34"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3622",
+            "source" : "n1441",
+            "target" : "n1469"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1471",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js-cxtmenu",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js-cxtmenu",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:12:16"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "new_tab",
+            "id" : "e3623",
+            "source" : "n1469",
+            "target" : "n1471"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1474",
+            "key" : "google:cytoscape.js+cxtmenu+demo",
+            "name" : "google:cytoscape.js+cxtmenu+demo",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:25:48"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3624",
+            "source" : "n1471",
+            "target" : "n1474"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1437",
+            "key" : "google:cytoscape.js+add+node+right+click",
+            "name" : "google:cytoscape.js+add+node+right+click",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.51\n2014: 0.16\ngraph: 0.13\nuse: 0.13\nmenu: 0.12\n2015: 0.12\nnetwork: 0.11\nvisual: 0.11\nlibrari: 0.10\ndata: 0.09\ncan: 0.08\nplugin: 0.08\ncontext: 0.08\njavascript: 0.07\nlink: 0.07\n",
+            "ts" : "2016.01.19 08:12:57"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1529",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js/issues/401",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js/issues/401",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.19 08:15:05"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3630",
+            "source" : "n1437",
+            "target" : "n1529"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1531",
+            "key" : "url:https://gist.github.com/5772040",
+            "name" : "url:https://gist.github.com/5772040",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.19 08:15:15"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3631",
+            "source" : "n1437",
+            "target" : "n1531"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3632",
+            "source" : "n1441",
+            "target" : "n1445"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3633",
+            "source" : "n1441",
+            "target" : "n1452"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1542",
+            "key" : "url:http://bundlr.com/clips/51ab5842c087de531600009f",
+            "name" : "url:http://bundlr.com/clips/51ab5842c087de531600009f",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 05:29:28"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3634",
+            "source" : "n1441",
+            "target" : "n1542"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1571",
+            "key" : "url:http://xdsoft.net/jquery-plugins/cytoscape.js-cxtmenu/",
+            "name" : "url:http://xdsoft.net/jquery-plugins/cytoscape.js-cxtmenu/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:34:52"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3640",
+            "source" : "n1437",
+            "target" : "n1571"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n3835",
+            "key" : "topic:cytoe",
+            "name" : "topic:cytoe",
+            "node_type" : "topic",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "related",
+            "id" : "e3836",
+            "source" : "n3835",
+            "target" : "n1441"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n3837",
+            "key" : "topic:cyto0a",
+            "name" : "topic:cyto0a",
+            "node_type" : "topic",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "related",
+            "id" : "e3838",
+            "source" : "n3837",
+            "target" : "n1437"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "related",
+            "id" : "e3839",
+            "source" : "n3837",
+            "target" : "n1441"
+         },
+         "group" : "edges"
+      }
+   ],
+   "test" : 0,
+   "testdata" : 1
+}

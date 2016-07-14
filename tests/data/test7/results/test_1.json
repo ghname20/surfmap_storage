@@ -1,0 +1,23 @@
+{
+   "edge_count" : 42571,
+   "name" : 1,
+   "node_count" : 52892,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "end" : "2016-02-01",
+            "exact" : "true",
+            "key" : "url:http://stackoverflow.com/questions/26123468/dynamic-node-content-label-in-cytoscape-js",
+            "start" : "2016-01-01"
+         }
+      ],
+      "match_undef" : 0,
+      "method" : "get_graph_data",
+      "request" : "get_graph_data",
+      "request_source" : "popup"
+   },
+   "result" : [],
+   "test" : 1,
+   "testdata" : 1
+}

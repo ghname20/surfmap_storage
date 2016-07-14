@@ -1,0 +1,89 @@
+{
+   "next_id" : 3835,
+   "request_files" : {
+      "2016-01-07 04:26:40,089 RTLogger Loading" : {
+         "files" : {
+            "F:\\work\\fiddler\\logs/160108.txt" : 0
+         },
+         "modtime" : 1452239794,
+         "nextline" : 28871
+      },
+      "2016-01-08 17:56:50,579 RTLogger Loading" : {
+         "files" : {
+            "F:\\work\\fiddler\\logs/160110.txt" : 0
+         },
+         "modtime" : 1452456264,
+         "nextline" : 30111
+      },
+      "2016-01-11 06:04:42,257 RTLogger Loading" : {
+         "files" : {
+            "F:\\work\\fiddler\\logs/160112.txt" : 0
+         },
+         "modtime" : 1452590193,
+         "nextline" : 13087
+      },
+      "2016-01-12 19:17:01,466 RTLogger Loading" : {
+         "files" : {
+            "F:\\work\\fiddler\\logs/160116.txt" : 2,
+            "F:\\work\\fiddler\\logs/t.txt" : 1
+         },
+         "modtime" : 1452590273,
+         "nextline" : 21827
+      },
+      "2016-01-16 04:26:56,800 RTLogger (Info) Loading" : {
+         "files" : {
+            "F:\\work\\fiddler\\logs/160126.txt" : 1,
+            "F:\\work\\fiddler\\logs/current.txt" : 1,
+            "F:\\work\\fiddler\\logs/test.txt" : 2
+         },
+         "modtime" : 1453544416,
+         "nextline" : 56303
+      },
+      "2016-01-26 04:31:48,442 RTLogger (Info) Loading" : {
+         "files" : {
+            "F:\\work\\fiddler\\logs/160130.txt" : 0
+         },
+         "modtime" : 1454098468,
+         "nextline" : 10716
+      },
+      "2016-01-30 06:15:06,067 RTLogger (Info) Loading" : {
+         "files" : {
+            "F:\\work\\fiddler\\logs/current.txt" : 1,
+            "F:\\work\\fiddler\\logs/current.txt.1" : 1
+         },
+         "modtime" : 1455414603,
+         "nextline" : 66101
+      },
+      "2016-02-14 11:50:33,428 #33362\thttps://news.google.com/news/xhr/logXhrAction?&sip=1&siidp=8fa3635071e6cdc8976eb22696ebb9544d31&sidp=0&ned=us\t200\thttps://news.google.com/" : {
+         "files" : {
+            "F:\\work\\fiddler\\logs/current.txt" : 1
+         },
+         "modtime" : 1455431563,
+         "nextline" : 2644
+      },
+      "current.txt: 2016-01-14 05:28:35,654 #4459\thttps://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiAtrfSwqfKAhXMFiwKHc1MBZQQFgg0MAI&url=http%3A%2F%2Fdugtor.ru%2Fprogrammy%2Fos%2Fwindows-10%2F12892-microsoft-windows-10-professionalenterprise-10586-th2-release-1511-originalnye-obrazy-ot-microsoft-vlsc-ru-en.html&usg=AFQjCNHlaiCjtG2s9ndAUZLklFc5UwZjkA\t200\thttps://www.google.ru/" : {
+         "files" : {
+            "F:\\work\\fiddler\\logs/.d" : 0
+         },
+         "modtime" : 1452714385,
+         "nextline" : 52
+      }
+   },
+   "selection" : {
+      "core" : {
+         "mode" : "Crw"
+      },
+      "referer160101" : {
+         "mode" : "rw"
+      }
+   },
+   "storage" : {
+      "core" : {
+         "file" : "core_graph.json",
+         "timestamp" : "1456095190"
+      },
+      "referer160101" : {
+         "file" : "referer160101_graph.json"
+      }
+   }
+}

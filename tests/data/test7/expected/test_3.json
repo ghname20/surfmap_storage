@@ -1,0 +1,616 @@
+{
+   "edge_count" : 42571,
+   "name" : 3,
+   "node_count" : 52892,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "edge" : {},
+            "filter_type" : "edge",
+            "from" : {
+               "key" : "^\\Qgoogle:cytoscape.js+add+node+right+click\\E$"
+            },
+            "to" : {}
+         }
+      ],
+      "match_undef" : 0
+   },
+   "result" : [
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n138184",
+            "key" : "google:cytoscape.js+\"degree\"+example",
+            "name" : "google:cytoscape.js+\"degree\"+example",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n138217",
+            "key" : "url:http://stackoverflow.com/tags/cytoscape.js/hot",
+            "name" : "url:http://stackoverflow.com/tags/cytoscape.js/hot",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e197751",
+            "source" : "n138184",
+            "target" : "n138217"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n143670",
+            "key" : "google:cytoscape.js+add+node+right+click",
+            "name" : "google:cytoscape.js+add+node+right+click",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e199106",
+            "source" : "n138217",
+            "target" : "n143670"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n149753",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js/issues/401",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js/issues/401",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e200157",
+            "source" : "n143670",
+            "target" : "n149753"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n149761",
+            "key" : "url:https://gist.github.com/5772040",
+            "name" : "url:https://gist.github.com/5772040",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e200158",
+            "source" : "n143670",
+            "target" : "n149761"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1519",
+            "key" : "url:https://api.github.com/_private/browser/stats",
+            "name" : "url:https://api.github.com/_private/browser/stats",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200159",
+            "source" : "n149753",
+            "target" : "n1519"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200160",
+            "source" : "n149753",
+            "target" : "n1519"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n152569",
+            "key" : "url:http://xdsoft.net/jquery-plugins/cytoscape.js-cxtmenu/",
+            "name" : "url:http://xdsoft.net/jquery-plugins/cytoscape.js-cxtmenu/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e200418",
+            "source" : "n143670",
+            "target" : "n152569"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152579",
+            "key" : "url:http://ghbtns.com/github-btn.html?user=cytoscape&repo=cytoscape.js-cxtmenu&type=watch&count=true",
+            "name" : "url:http://ghbtns.com/github-btn.html?user=cytoscape&repo=cytoscape.js-cxtmenu&type=watch&count=true",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200421",
+            "source" : "n152569",
+            "target" : "n152579"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152581",
+            "key" : "url:http://ghbtns.com/github-btn.html?user=cytoscape&repo=cytoscape.js-cxtmenu&type=fork&count=true",
+            "name" : "url:http://ghbtns.com/github-btn.html?user=cytoscape&repo=cytoscape.js-cxtmenu&type=fork&count=true",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200422",
+            "source" : "n152569",
+            "target" : "n152581"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152600",
+            "key" : "url:http://ghbtns.com/github-btn.html?user=cytoscape&type=follow&count=true",
+            "name" : "url:http://ghbtns.com/github-btn.html?user=cytoscape&type=follow&count=true",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200428",
+            "source" : "n152569",
+            "target" : "n152600"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152602",
+            "key" : "url:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1093220006396549&format=300x250&output=html&h=250&slotname=4200949809&adk=2876627082&w=300&lmt=1453235710&avail_w=0&flash=0&url=http%3A%2F%2Fxdsoft.net%2Fjquery-plugins%2Fcytoscape.js-cxtmenu%2F&wgl=1&dt=1453235710423&bpp=41&bdt=25534&fdt=65&idt=220&shv=r20160112&cbv=r20151006&saldr=aa&correlator=5218674313217&frm=20&ga_vid=1856811467.1453235697&ga_sid=1453235711&ga_hid=619008491&ga_fc=0&pv=2&u_tz=600&u_his=1&u_java=1&u_h=1080&u_w=1326&u_ah=1040&u_aw=1326&u_cd=24&u_nplug=5&u_nmime=42&dff=abelregular&dfs=15&adx=612&ady=343&biw=1309&bih=943&eid=575144605&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=80&pc=1&brdim=0%2C0%2C0%2C0%2C1326%2C0%2C0%2C0%2C1326%2C943&vis=2&rsz=o%7C%7Cl%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&xpc=RFo8urxCCy&p=http%3A//xdsoft.net&dtd=287",
+            "name" : "url:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1093220006396549&format=300x250&output=html&h=250&slotname=4200949809&adk=2876627082&w=300&lmt=1453235710&avail_w=0&flash=0&url=http%3A%2F%2Fxdsoft.net%2Fjquery-plugins%2Fcytoscape.js-cxtmenu%2F&wgl=1&dt=1453235710423&bpp=41&bdt=25534&fdt=65&idt=220&shv=r20160112&cbv=r20151006&saldr=aa&correlator=5218674313217&frm=20&ga_vid=1856811467.1453235697&ga_sid=1453235711&ga_hid=619008491&ga_fc=0&pv=2&u_tz=600&u_his=1&u_java=1&u_h=1080&u_w=1326&u_ah=1040&u_aw=1326&u_cd=24&u_nplug=5&u_nmime=42&dff=abelregular&dfs=15&adx=612&ady=343&biw=1309&bih=943&eid=575144605&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=80&pc=1&brdim=0%2C0%2C0%2C0%2C1326%2C0%2C0%2C0%2C1326%2C943&vis=2&rsz=o%7C%7Cl%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=1&xpc=RFo8urxCCy&p=http%3A//xdsoft.net&dtd=287",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200429",
+            "source" : "n152569",
+            "target" : "n152602"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152605",
+            "key" : "url:https://www.google.com/ads/measurement/l?ebcid=ALh7CaRvFSzihIojlO0ROmKynzei_Lr6NTuBdPja4nwJ9PbpqPUmXfB94bG8jMPuPQPNGcFEOtXX0w_LaNZLq0Yse9aNM7i5iw",
+            "name" : "url:https://www.google.com/ads/measurement/l?ebcid=ALh7CaRvFSzihIojlO0ROmKynzei_Lr6NTuBdPja4nwJ9PbpqPUmXfB94bG8jMPuPQPNGcFEOtXX0w_LaNZLq0Yse9aNM7i5iw",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200430",
+            "source" : "n152602",
+            "target" : "n152605"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152607",
+            "key" : "url:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1093220006396549&format=468x60&output=html&h=60&slotname=2070448205&adk=158862217&w=468&lmt=1453235711&flash=0&url=http%3A%2F%2Fxdsoft.net%2Fjquery-plugins%2Fcytoscape.js-cxtmenu%2F&wgl=1&dt=1453235710489&bpp=35&bdt=25601&fdt=1410&idt=1430&shv=r20160112&cbv=r20151006&saldr=aa&prev_fmts=300x250&correlator=5218674313217&frm=20&ga_vid=1856811467.1453235697&ga_sid=1453235711&ga_hid=619008491&ga_fc=0&pv=1&u_tz=600&u_his=1&u_java=1&u_h=1080&u_w=1326&u_ah=1040&u_aw=1326&u_cd=24&u_nplug=5&u_nmime=42&dff=abelregular&dfs=15&adx=81&ady=3227&biw=1309&bih=943&eid=575144605&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=80&pc=1&brdim=0%2C0%2C0%2C0%2C1326%2C0%2C0%2C0%2C1326%2C943&vis=2&rsz=%7C%7C%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=GCzK39PC2g&p=http%3A//xdsoft.net&dtd=1481",
+            "name" : "url:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1093220006396549&format=468x60&output=html&h=60&slotname=2070448205&adk=158862217&w=468&lmt=1453235711&flash=0&url=http%3A%2F%2Fxdsoft.net%2Fjquery-plugins%2Fcytoscape.js-cxtmenu%2F&wgl=1&dt=1453235710489&bpp=35&bdt=25601&fdt=1410&idt=1430&shv=r20160112&cbv=r20151006&saldr=aa&prev_fmts=300x250&correlator=5218674313217&frm=20&ga_vid=1856811467.1453235697&ga_sid=1453235711&ga_hid=619008491&ga_fc=0&pv=1&u_tz=600&u_his=1&u_java=1&u_h=1080&u_w=1326&u_ah=1040&u_aw=1326&u_cd=24&u_nplug=5&u_nmime=42&dff=abelregular&dfs=15&adx=81&ady=3227&biw=1309&bih=943&eid=575144605&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=80&pc=1&brdim=0%2C0%2C0%2C0%2C1326%2C0%2C0%2C0%2C1326%2C943&vis=2&rsz=%7C%7C%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=2&xpc=GCzK39PC2g&p=http%3A//xdsoft.net&dtd=1481",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200431",
+            "source" : "n152569",
+            "target" : "n152607"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152609",
+            "key" : "url:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1093220006396549&format=300x600&output=html&h=600&slotname=9593715004&adk=2227882214&w=300&lmt=1453235713&flash=0&url=http%3A%2F%2Fxdsoft.net%2Fjquery-plugins%2Fcytoscape.js-cxtmenu%2F&wgl=1&dt=1453235710525&bpp=17&bdt=25637&fdt=2448&idt=2464&shv=r20160112&cbv=r20151006&saldr=aa&prev_fmts=300x250%2C468x60&correlator=5218674313217&frm=20&ga_vid=1856811467.1453235697&ga_sid=1453235711&ga_hid=619008491&ga_fc=0&pv=1&u_tz=600&u_his=1&u_java=1&u_h=1080&u_w=1326&u_ah=1040&u_aw=1326&u_cd=24&u_nplug=5&u_nmime=42&dff=abelregular&dfs=15&adx=948&ady=126&biw=1309&bih=943&eid=575144605&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=80&pc=1&brdim=0%2C0%2C0%2C0%2C1326%2C0%2C0%2C0%2C1326%2C943&vis=2&rsz=%7C%7Cl%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=3&xpc=QUNpOwaxzR&p=http%3A//xdsoft.net&dtd=2554",
+            "name" : "url:https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1093220006396549&format=300x600&output=html&h=600&slotname=9593715004&adk=2227882214&w=300&lmt=1453235713&flash=0&url=http%3A%2F%2Fxdsoft.net%2Fjquery-plugins%2Fcytoscape.js-cxtmenu%2F&wgl=1&dt=1453235710525&bpp=17&bdt=25637&fdt=2448&idt=2464&shv=r20160112&cbv=r20151006&saldr=aa&prev_fmts=300x250%2C468x60&correlator=5218674313217&frm=20&ga_vid=1856811467.1453235697&ga_sid=1453235711&ga_hid=619008491&ga_fc=0&pv=1&u_tz=600&u_his=1&u_java=1&u_h=1080&u_w=1326&u_ah=1040&u_aw=1326&u_cd=24&u_nplug=5&u_nmime=42&dff=abelregular&dfs=15&adx=948&ady=126&biw=1309&bih=943&eid=575144605&oid=3&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=80&pc=1&brdim=0%2C0%2C0%2C0%2C1326%2C0%2C0%2C0%2C1326%2C943&vis=2&rsz=%7C%7Cl%7C&abl=CS&ppjl=u&pfx=0&fu=16&bc=1&ifi=3&xpc=QUNpOwaxzR&p=http%3A//xdsoft.net&dtd=2554",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200432",
+            "source" : "n152569",
+            "target" : "n152609"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152611",
+            "key" : "url:https://www.google.com/ads/measurement/l?ebcid=ALh7CaTYT2J8pt9uTwIOdgiTAjqPDx1Si3EDxfNcIhIZeaTNzHjOBpIlhjsfQvaN61GoQD7m9s0Ozx7QmNPhwTBVmj-lWDaefA",
+            "name" : "url:https://www.google.com/ads/measurement/l?ebcid=ALh7CaTYT2J8pt9uTwIOdgiTAjqPDx1Si3EDxfNcIhIZeaTNzHjOBpIlhjsfQvaN61GoQD7m9s0Ozx7QmNPhwTBVmj-lWDaefA",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200433",
+            "source" : "n152609",
+            "target" : "n152611"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152618",
+            "key" : "url:https://googleads.g.doubleclick.net/pagead/gen_204?id=wfocus&gqid=Ap6eVuOHL9b8Zb_ZsXg&qqid=CI3Yt_TctsoCFcYMGQodRLwHWA&bgload=1",
+            "name" : "url:https://googleads.g.doubleclick.net/pagead/gen_204?id=wfocus&gqid=Ap6eVuOHL9b8Zb_ZsXg&qqid=CI3Yt_TctsoCFcYMGQodRLwHWA&bgload=1",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200434",
+            "source" : "n152607",
+            "target" : "n152618"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200435",
+            "source" : "n152609",
+            "target" : "n152611"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152621",
+            "key" : "url:https://googleads.g.doubleclick.net/pagead/gen_204?id=wfocus&gqid=BJ6eVqLQAtWBZbj4sNgK&qqid=CP6phfXctsoCFYIMGQoduGkBUw&bgload=1",
+            "name" : "url:https://googleads.g.doubleclick.net/pagead/gen_204?id=wfocus&gqid=BJ6eVqLQAtWBZbj4sNgK&qqid=CP6phfXctsoCFYIMGQoduGkBUw&bgload=1",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200436",
+            "source" : "n152609",
+            "target" : "n152621"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200437",
+            "source" : "n152602",
+            "target" : "n152605"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152640",
+            "key" : "url:https://cm.g.doubleclick.net/push?client=ca-pub-1093220006396549&srn=gdn",
+            "name" : "url:https://cm.g.doubleclick.net/push?client=ca-pub-1093220006396549&srn=gdn",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200443",
+            "source" : "n152607",
+            "target" : "n152640"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200444",
+            "source" : "n152609",
+            "target" : "n152640"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200445",
+            "source" : "n152602",
+            "target" : "n152640"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152683",
+            "key" : "url:https://googleads.g.doubleclick.net/pagead/gen_204?id=wfocus&gqid=Ap6eVuOHL9b8Zb_ZsXg&qqid=CI3Yt_TctsoCFcYMGQodRLwHWA&fg=1",
+            "name" : "url:https://googleads.g.doubleclick.net/pagead/gen_204?id=wfocus&gqid=Ap6eVuOHL9b8Zb_ZsXg&qqid=CI3Yt_TctsoCFcYMGQodRLwHWA&fg=1",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200453",
+            "source" : "n152607",
+            "target" : "n152683"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152685",
+            "key" : "url:https://googleads.g.doubleclick.net/pagead/gen_204?id=wfocus&gqid=BJ6eVqLQAtWBZbj4sNgK&qqid=CP6phfXctsoCFYIMGQoduGkBUw&fg=1",
+            "name" : "url:https://googleads.g.doubleclick.net/pagead/gen_204?id=wfocus&gqid=BJ6eVqLQAtWBZbj4sNgK&qqid=CP6phfXctsoCFYIMGQoduGkBUw&fg=1",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200454",
+            "source" : "n152609",
+            "target" : "n152685"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200455",
+            "source" : "n152607",
+            "target" : "n152683"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200456",
+            "source" : "n152609",
+            "target" : "n152685"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200457",
+            "source" : "n152607",
+            "target" : "n152683"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n152711",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js-cxtmenu/archive/master.zip",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js-cxtmenu/archive/master.zip",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200458",
+            "source" : "n152569",
+            "target" : "n152711"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200459",
+            "source" : "n152609",
+            "target" : "n152685"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200460",
+            "source" : "n152607",
+            "target" : "n152683"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200469",
+            "source" : "n152607",
+            "target" : "n152683"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e200470",
+            "source" : "n152609",
+            "target" : "n152685"
+         },
+         "group" : "edges"
+      }
+   ],
+   "test" : 3,
+   "testdata" : 1
+}

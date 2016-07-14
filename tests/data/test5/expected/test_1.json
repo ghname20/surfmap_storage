@@ -1,0 +1,22 @@
+{
+   "edge_count" : 2061,
+   "node_count" : 3598,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "edge" : {},
+            "filter_type" : "edge",
+            "from" : {
+               "text" : "test5"
+            },
+            "start" : "2016-01-10",
+            "to" : {}
+         }
+      ],
+      "match_undef" : 0
+   },
+   "result" : [],
+   "test" : 1,
+   "testdata" : 0
+}

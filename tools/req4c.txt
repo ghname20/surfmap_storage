@@ -1,0 +1,15 @@
+{
+   "expand" : 0,
+   "filters" : [{
+      "type" : "edge",
+      "to" : {
+         "text" : "^"
+      },
+      "from" : {
+        "text" : "^"
+      }
+   }
+  ],
+   "request" : "get_graph_data_with_stats",
+   "request_source" : "popup"
+}

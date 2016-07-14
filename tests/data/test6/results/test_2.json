@@ -1,0 +1,2143 @@
+{
+   "edge_count" : 461,
+   "node_count" : 1029,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "edge" : {
+               "edge_type" : "^"
+            },
+            "filter_type" : "edge",
+            "from" : {
+               "text" : "cytoscape"
+            },
+            "to" : {
+               "text" : "^"
+            }
+         }
+      ],
+      "match_undef" : 0
+   },
+   "result" : [
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n882",
+            "key" : "google:cytoscape.js+tutorial",
+            "name" : "google:cytoscape.js+tutorial",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.52\ntutori: 0.23\nvisual: 0.22\nyoutub: 0.16\ngourc: 0.12\ngraph: 0.12\njavascript: 0.11\nnetwork: 0.10\nuse: 0.10\nevolut: 0.09\n2015: 0.09\nnode: 0.08\nlayout: 0.08\n2014: 0.08\ncom: 0.08\n",
+            "ts" : "2016.01.13 13:21:38"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n886",
+            "key" : "url:http://chianti.ucsd.edu/~kono/cy3js/",
+            "name" : "url:http://chianti.ucsd.edu/~kono/cy3js/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.14 05:03:19"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3473",
+            "source" : "n882",
+            "target" : "n886"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n888",
+            "key" : "url:http://stackoverflow.com/questions/21650711/live-code-examples-cytoscape-js-initialization-incomplete",
+            "name" : "url:http://stackoverflow.com/questions/21650711/live-code-examples-cytoscape-js-initialization-incomplete",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.14 05:03:34"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3474",
+            "source" : "n882",
+            "target" : "n888"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n903",
+            "key" : "google:cytoscape.js+re-render+with+new+data",
+            "name" : "google:cytoscape.js+re-render+with+new+data",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.67\ngraph: 0.30\n2015: 0.20\nnode: 0.16\nlibrari: 0.16\nuse: 0.14\n2: 0.14\nload: 0.13\nlayout: 0.11\njavascript: 0.10\nnetwork: 0.09\n0: 0.09\nadd: 0.09\ndec: 0.09\n2014: 0.08\n",
+            "ts" : "2016.01.14 05:56:18"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n905",
+            "key" : "url:http://stackoverflow.com/questions/18391899/how-to-reload-graph-in-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/18391899/how-to-reload-graph-in-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.14 05:58:07"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3478",
+            "source" : "n903",
+            "target" : "n905"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n907",
+            "key" : "url:http://stackoverflow.com/questions/28319490/how-to-manipulate-cytoscape-js-graph-data-before-rendering",
+            "name" : "url:http://stackoverflow.com/questions/28319490/how-to-manipulate-cytoscape-js-graph-data-before-rendering",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.14 05:58:10"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3479",
+            "source" : "n903",
+            "target" : "n907"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n913",
+            "key" : "google:cytoscape.js+cannot+read+property+source+of+undefined",
+            "name" : "google:cytoscape.js+cannot+read+property+source+of+undefined",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.42\nproperti: 0.31\nundefin: 0.23\nsourc: 0.22\ntypeerror: 0.21\n2015: 0.20\nuncaught: 0.18\njson: 0.17\ndata: 0.17\nimport: 0.16\n2014: 0.16\nexport: 0.13\nuse: 0.12\njavascript: 0.07\njun: 0.07\n",
+            "ts" : "2016.01.14 06:21:40"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n915",
+            "key" : "url:http://stackoverflow.com/questions/30771053/springy-cytoscape-js-uncaught-typeerror-cannot-read-property-mass-of-undefine",
+            "name" : "url:http://stackoverflow.com/questions/30771053/springy-cytoscape-js-uncaught-typeerror-cannot-read-property-mass-of-undefine",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.14 06:24:46"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3480",
+            "source" : "n913",
+            "target" : "n915"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n918",
+            "key" : "google:cytoscape.js+.load+documentation",
+            "name" : "google:cytoscape.js+.load+documentation",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.81\n2015: 0.21\ndocument: 0.20\ngraph: 0.17\nnode: 0.14\n2014: 0.12\nuse: 0.12\nlibrari: 0.11\njavascript: 0.09\nnetwork: 0.07\ninstal: 0.06\nplugin: 0.06\naug: 0.06\nadd: 0.06\ncy: 0.06\n",
+            "ts" : "2016.01.14 06:30:01"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n920",
+            "key" : "url:http://cytoscapeweb.cytoscape.org/tutorial",
+            "name" : "url:http://cytoscapeweb.cytoscape.org/tutorial",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.14 06:33:24"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3481",
+            "source" : "n918",
+            "target" : "n920"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n922",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js/blob/master/documentation/md/style.md",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js/blob/master/documentation/md/style.md",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.14 06:33:32"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3482",
+            "source" : "n918",
+            "target" : "n922"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n925",
+            "key" : "google:cytoscape.js+documentation",
+            "name" : "google:cytoscape.js+documentation",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.77\ndocument: 0.24\n2015: 0.20\ngraph: 0.17\nnode: 0.15\nlibrari: 0.12\nuse: 0.11\njavascript: 0.09\nplugin: 0.09\n2014: 0.08\n2: 0.08\njqueri: 0.08\ncode: 0.06\nmay: 0.06\n2013: 0.06\n",
+            "ts" : "2016.01.15 04:38:53"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n927",
+            "key" : "url:http://wiki.cytoscape.org/Cytoscape_3/UserManual/CytoscapeJs",
+            "name" : "url:http://wiki.cytoscape.org/Cytoscape_3/UserManual/CytoscapeJs",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 04:39:19"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3483",
+            "source" : "n925",
+            "target" : "n927"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n930",
+            "key" : "google:cytoscape.js+hide++labels+",
+            "name" : "google:cytoscape.js+hide++labels+",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.51\nlabel: 0.28\nnode: 0.26\n2015: 0.17\nvisual: 0.14\nnetwork: 0.12\n2014: 0.12\ngraph: 0.09\nweb: 0.09\nshow: 0.09\nuse: 0.09\n2013: 0.09\ndata: 0.08\njavascript: 0.07\ncan: 0.07\n",
+            "ts" : "2016.01.15 05:27:31"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n932",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js/issues/889",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js/issues/889",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 05:28:05"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3484",
+            "source" : "n930",
+            "target" : "n932"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n934",
+            "key" : "url:http://stackoverflow.com/questions/26123468/dynamic-node-content-label-in-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/26123468/dynamic-node-content-label-in-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 05:28:06"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3485",
+            "source" : "n930",
+            "target" : "n934"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n936",
+            "key" : "url:http://stackoverflow.com/questions/15172427/add-an-edge-label-with-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/15172427/add-an-edge-label-with-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 05:28:10"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3486",
+            "source" : "n930",
+            "target" : "n936"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n938",
+            "key" : "url:http://stackoverflow.com/questions/33508140/cytoscape-js-hiding-and-restoring-nodes-with-edges-afterwards",
+            "name" : "url:http://stackoverflow.com/questions/33508140/cytoscape-js-hiding-and-restoring-nodes-with-edges-afterwards",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 05:28:32"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3487",
+            "source" : "n930",
+            "target" : "n938"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n940",
+            "key" : "url:https://groups.google.com/d/topic/cytoscape-discuss/3Nm1-tEEdiI",
+            "name" : "url:https://groups.google.com/d/topic/cytoscape-discuss/3Nm1-tEEdiI",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 05:31:28"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3488",
+            "source" : "n930",
+            "target" : "n940"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n943",
+            "key" : "google:cytoscape.js+toggle+labels",
+            "name" : "google:cytoscape.js+toggle+labels",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.45\nlabel: 0.28\ntoggl: 0.23\nnode: 0.15\n2015: 0.14\n2014: 0.10\ngraph: 0.10\nuse: 0.10\ncan: 0.09\ndata: 0.09\nvisual: 0.08\njqueri: 0.08\nnetwork: 0.08\n2013: 0.08\nfunction: 0.07\n",
+            "ts" : "2016.01.15 05:41:00"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3489",
+            "source" : "n943",
+            "target" : "n934"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n963",
+            "key" : "google:cytoscape.js+load+\"cannot+read+property\"+source+of+undefined",
+            "name" : "google:cytoscape.js+load+\"cannot+read+property\"+source+of+undefined",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.48\nundefin: 0.29\nuse: 0.29\nproperti: 0.29\n10: 0.27\njson: 0.27\n2014: 0.27\nexport: 0.24\ntypeerror: 0.24\ndata: 0.24\nimport: 0.24\nsourc: 0.23\nuncaught: 0.21\nfeb: 0.18\n2015: 0.18\n",
+            "ts" : "2016.01.15 06:53:36"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n965",
+            "key" : "url:http://stackoverflow.com/questions/21668222/exporting-and-importing-json-data-to-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/21668222/exporting-and-importing-json-data-to-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 06:54:03"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3490",
+            "source" : "n963",
+            "target" : "n965"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n968",
+            "key" : "google:cytoscape.js+rescale",
+            "name" : "google:cytoscape.js+rescale",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.73\n2015: 0.23\ngraph: 0.18\nnetwork: 0.16\n2014: 0.16\nzoom: 0.13\nlibrari: 0.12\nnode: 0.10\nscale: 0.09\njavascript: 0.09\nupdat: 0.08\nvisual: 0.07\n2013: 0.07\ndec: 0.07\nuse: 0.07\n",
+            "ts" : "2016.01.15 08:00:37"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n970",
+            "key" : "url:http://stackoverflow.com/questions/32175575/how-to-control-the-zoom-in-out-accuracy-in-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/32175575/how-to-control-the-zoom-in-out-accuracy-in-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 08:00:50"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3491",
+            "source" : "n968",
+            "target" : "n970"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n976",
+            "key" : "google:cytoscape.js+layout+zoom",
+            "name" : "google:cytoscape.js+layout+zoom",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.74\ngraph: 0.23\nnode: 0.23\n2015: 0.23\nuse: 0.14\n2014: 0.14\nnetwork: 0.12\nlibrari: 0.11\nfit: 0.11\npan: 0.10\ndirect: 0.07\nnov: 0.07\nforc: 0.07\njavascript: 0.06\narbor: 0.06\n",
+            "ts" : "2016.01.15 08:05:47"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n978",
+            "key" : "url:http://stackoverflow.com/questions/21991074/cytoscape-cyposition-vs-zoom-fit",
+            "name" : "url:http://stackoverflow.com/questions/21991074/cytoscape-cyposition-vs-zoom-fit",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 08:06:19"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3492",
+            "source" : "n976",
+            "target" : "n978"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n980",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js/issues/789",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js/issues/789",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 08:06:21"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3493",
+            "source" : "n976",
+            "target" : "n980"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n982",
+            "key" : "url:http://www.slideshare.net/BenjaminKeller/cytoscapejs0514",
+            "name" : "url:http://www.slideshare.net/BenjaminKeller/cytoscapejs0514",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 08:06:42"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3494",
+            "source" : "n976",
+            "target" : "n982"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n985",
+            "key" : "google:cytoscape.js+node+size",
+            "name" : "google:cytoscape.js+node+size",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.80\n2015: 0.23\nnetwork: 0.14\n2014: 0.14\ngraph: 0.14\naug: 0.11\nset: 0.10\nuse: 0.10\nedg: 0.10\nvisual: 0.10\nweb: 0.09\ncolor: 0.08\nd3: 0.06\n2013: 0.06\njavascript: 0.06\n",
+            "ts" : "2016.01.15 08:12:43"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n987",
+            "key" : "url:http://stackoverflow.com/questions/27696761/how-to-auto-size-nodes-based-on-content-in-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/27696761/how-to-auto-size-nodes-based-on-content-in-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 08:13:06"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3495",
+            "source" : "n985",
+            "target" : "n987"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n989",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js/issues/649",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js/issues/649",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.15 08:17:20"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3496",
+            "source" : "n985",
+            "target" : "n989"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1083",
+            "key" : "google:cytoscape.js+best+layout+for+text+nodes",
+            "name" : "google:cytoscape.js+best+layout+for+text+nodes",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.46\nnode: 0.39\ngraph: 0.25\nlibrari: 0.16\n2015: 0.16\nvisual: 0.14\n2014: 0.12\nweb: 0.11\n2013: 0.11\nuse: 0.11\nnetwork: 0.10\nbase: 0.10\nanalysi: 0.09\ntree: 0.09\ndata: 0.08\n",
+            "ts" : "2016.01.16 13:59:46"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1094",
+            "key" : "url:http://stackoverflow.com/questions/tagged/cytoscape.js?sort=votes",
+            "name" : "url:http://stackoverflow.com/questions/tagged/cytoscape.js?sort=votes",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 14:04:25"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3519",
+            "source" : "n1083",
+            "target" : "n1094"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1107",
+            "key" : "url:http://stackoverflow.com/questions/11109168/cytoscape-js-force-directed-layouts-and-node-placement",
+            "name" : "url:http://stackoverflow.com/questions/11109168/cytoscape-js-force-directed-layouts-and-node-placement",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 14:38:22"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3520",
+            "source" : "n1083",
+            "target" : "n1107"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1110",
+            "key" : "google:cytoscape+node+size+degree",
+            "name" : "google:cytoscape+node+size+degree",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.52\nnetwork: 0.32\ndegre: 0.31\nvisual: 0.16\n2014: 0.14\nedg: 0.11\n2015: 0.10\ntutori: 0.09\nset: 0.09\ncolor: 0.08\nbiolog: 0.08\n2013: 0.07\nplugin: 0.07\njs: 0.07\ngraph: 0.07\n",
+            "ts" : "2016.01.16 15:08:04"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1115",
+            "key" : "url:https://www.biostars.org/p/14692/",
+            "name" : "url:https://www.biostars.org/p/14692/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 15:30:25"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3521",
+            "source" : "n1110",
+            "target" : "n1115"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1118",
+            "key" : "google:cytoscape.js+node+size+degree",
+            "name" : "google:cytoscape.js+node+size+degree",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.67\ndegre: 0.23\n2015: 0.23\nedg: 0.18\nset: 0.16\nnetwork: 0.14\nuse: 0.12\n2014: 0.11\nfeb: 0.11\n11: 0.11\nvisual: 0.10\namount: 0.09\ngraph: 0.09\n2013: 0.07\nanalysi: 0.06\n",
+            "ts" : "2016.01.16 15:30:52"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1122",
+            "key" : "url:http://stackoverflow.com/questions/25037921/set-node-size-with-the-amount-of-edges-in-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/25037921/set-node-size-with-the-amount-of-edges-in-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 15:36:02"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3522",
+            "source" : "n1118",
+            "target" : "n1122"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1125",
+            "key" : "google:cytoscape.js+node+size+degree+site:stackoverflow.com",
+            "name" : "google:cytoscape.js+node+size+degree+site:stackoverflow.com",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "stack: 0.48\ncytoscap: 0.44\nquestion: 0.42\noverflow: 0.42\npage: 0.34\ngraph: 0.28\n2015: 0.26\ndegre: 0.25\nnewest: 0.12\nedg: 0.11\nactiv: 0.11\nuse: 0.10\nrecent: 0.10\n1: 0.09\njavascript: 0.08\n",
+            "ts" : "2016.01.16 15:38:55"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1127",
+            "key" : "url:http://stackoverflow.com/questions/18645017/cytoscape-js-not-returning-an-accurate-node-degree-on-edge-addition-removal",
+            "name" : "url:http://stackoverflow.com/questions/18645017/cytoscape-js-not-returning-an-accurate-node-degree-on-edge-addition-removal",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 15:39:17"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3523",
+            "source" : "n1125",
+            "target" : "n1127"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1129",
+            "key" : "url:http://stackoverflow.com/questions/32647447/getting-minimum-graph-height-in-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/32647447/getting-minimum-graph-height-in-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 15:39:33"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3524",
+            "source" : "n1125",
+            "target" : "n1129"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1131",
+            "key" : "url:http://stackoverflow.com/questions/34151080/node-positioning-algorithm-for-cytoscape",
+            "name" : "url:http://stackoverflow.com/questions/34151080/node-positioning-algorithm-for-cytoscape",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 15:39:36"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3525",
+            "source" : "n1125",
+            "target" : "n1131"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1133",
+            "key" : "url:http://stackoverflow.com/questions/33272837/rendering-a-large-network-4700-nodes-and-5500-edges",
+            "name" : "url:http://stackoverflow.com/questions/33272837/rendering-a-large-network-4700-nodes-and-5500-edges",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 15:40:04"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3526",
+            "source" : "n1125",
+            "target" : "n1133"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1151",
+            "key" : "google:cytoscape.js+show+node+info+right+click",
+            "name" : "google:cytoscape.js+show+node+info+right+click",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.71\nuse: 0.25\ninform: 0.19\n2015: 0.15\ngraph: 0.15\nadd: 0.14\nedg: 0.14\nnetwork: 0.12\nqtip: 0.12\nmenu: 0.10\n2014: 0.10\ndisplay: 0.09\nplugin: 0.09\ntwo: 0.09\nvisual: 0.09\n",
+            "ts" : "2016.01.16 17:54:52"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1153",
+            "key" : "url:http://stackoverflow.com/questions/21081912/how-to-use-plugins-to-add-nodes-and-edges-in-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/21081912/how-to-use-plugins-to-add-nodes-and-edges-in-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 17:57:42"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3527",
+            "source" : "n1151",
+            "target" : "n1153"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1156",
+            "key" : "google:cytoscape.js+calculate+degree",
+            "name" : "google:cytoscape.js+calculate+degree",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.70\nnode: 0.40\ndegre: 0.25\n2014: 0.16\nedg: 0.13\nget: 0.12\n2015: 0.12\nnetwork: 0.11\nset: 0.11\nuse: 0.11\nsize: 0.11\n2013: 0.09\nvisual: 0.09\nedge: 0.07\nreturn: 0.07\n",
+            "ts" : "2016.01.16 18:01:59"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1158",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js/issues/347",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js/issues/347",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 18:03:15"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3528",
+            "source" : "n1156",
+            "target" : "n1158"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1164",
+            "key" : "google:cytoscape.js+\"degree\"+example",
+            "name" : "google:cytoscape.js+\"degree\"+example",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.69\nnode: 0.34\ndegre: 0.23\nexampl: 0.20\n2014: 0.17\nedg: 0.15\n2015: 0.13\nuse: 0.13\nnetwork: 0.11\n2013: 0.10\ngraph: 0.10\nvisual: 0.10\nset: 0.09\nlayout: 0.08\nsize: 0.07\n",
+            "ts" : "2016.01.16 18:20:37"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1166",
+            "key" : "url:http://stackoverflow.com/tags/cytoscape.js/hot",
+            "name" : "url:http://stackoverflow.com/tags/cytoscape.js/hot",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 18:22:09"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3529",
+            "source" : "n1164",
+            "target" : "n1166"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1172",
+            "key" : "google:cytoscape.js+color+mapping",
+            "name" : "google:cytoscape.js+color+mapping",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.55\n2015: 0.23\nmap: 0.22\nvisual: 0.19\ngraph: 0.16\nnode: 0.14\n2014: 0.14\nnetwork: 0.14\ndata: 0.12\nuse: 0.11\njavascript: 0.09\nlibrari: 0.09\n2013: 0.07\nweb: 0.07\nsep: 0.06\n",
+            "ts" : "2016.01.16 19:49:05"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1174",
+            "key" : "url:http://stackoverflow.com/questions/28388619/setting-variable-limits-for-cytoscape-js-mapdata",
+            "name" : "url:http://stackoverflow.com/questions/28388619/setting-variable-limits-for-cytoscape-js-mapdata",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 19:50:29"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3530",
+            "source" : "n1172",
+            "target" : "n1174"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1176",
+            "key" : "url:https://groups.google.com/d/topic/cytoscape-discuss/DmJzrLwBdso",
+            "name" : "url:https://groups.google.com/d/topic/cytoscape-discuss/DmJzrLwBdso",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 19:50:35"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3531",
+            "source" : "n1172",
+            "target" : "n1176"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1178",
+            "key" : "url:http://www.bioconductor.org/packages/3.3/bioc/vignettes/RCyjs/inst/doc/RCyjs.pdf",
+            "name" : "url:http://www.bioconductor.org/packages/3.3/bioc/vignettes/RCyjs/inst/doc/RCyjs.pdf",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.16 19:51:01"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3532",
+            "source" : "n1172",
+            "target" : "n1178"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1281",
+            "key" : "url:http://stackoverflow.com/questions/21019184/how-to-use-tooltip-javascript-libraryqtip-js-together-with-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/21019184/how-to-use-tooltip-javascript-libraryqtip-js-together-with-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.17 17:30:39"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1415",
+            "key" : "google:cytoscape.js+qtip+mouseover",
+            "name" : "google:cytoscape.js+qtip+mouseover",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.18 06:21:38"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3601",
+            "source" : "n1281",
+            "target" : "n1415"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1417",
+            "key" : "url:http://stackoverflow.com/questions/16776005/what-is-the-difference-between-d3-js-and-cytoscape-js/16992523#16992523",
+            "name" : "url:http://stackoverflow.com/questions/16776005/what-is-the-difference-between-d3-js-and-cytoscape-js/16992523#16992523",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.19 07:53:22"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3602",
+            "source" : "n1166",
+            "target" : "n1417"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1419",
+            "key" : "url:http://stackoverflow.com/questions/19115940/adding-cytoscape-node-at-the-location-of-mouse-cursor/19298283#19298283",
+            "name" : "url:http://stackoverflow.com/questions/19115940/adding-cytoscape-node-at-the-location-of-mouse-cursor/19298283#19298283",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.19 07:53:29"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3603",
+            "source" : "n1166",
+            "target" : "n1419"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1430",
+            "key" : "url:http://cytoscape.github.io/cytoscape.js/#notation/position",
+            "name" : "url:http://cytoscape.github.io/cytoscape.js/#notation/position",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.19 08:02:21"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3607",
+            "source" : "n1419",
+            "target" : "n1430"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1432",
+            "key" : "url:http://stackoverflow.com/questions/23461322/cytoscape-js-wrong-mouse-pointer-position-after-container-change?rq=1",
+            "name" : "url:http://stackoverflow.com/questions/23461322/cytoscape-js-wrong-mouse-pointer-position-after-container-change?rq=1",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.19 08:02:41"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3608",
+            "source" : "n1419",
+            "target" : "n1432"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1437",
+            "key" : "google:cytoscape.js+add+node+right+click",
+            "name" : "google:cytoscape.js+add+node+right+click",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.51\n2014: 0.16\ngraph: 0.13\nuse: 0.13\nmenu: 0.12\n2015: 0.12\nnetwork: 0.11\nvisual: 0.11\nlibrari: 0.10\ndata: 0.09\ncan: 0.08\nplugin: 0.08\ncontext: 0.08\njavascript: 0.07\nlink: 0.07\n",
+            "ts" : "2016.01.19 08:12:57"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3610",
+            "source" : "n1166",
+            "target" : "n1437"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1438",
+            "key" : "url:http://qtip2.com/guides#events.rightclick",
+            "name" : "url:http://qtip2.com/guides#events.rightclick",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1441",
+            "key" : "google:cytoscape.js+right+click+canvas",
+            "name" : "google:cytoscape.js+right+click+canvas",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.42\n2015: 0.21\ngraph: 0.19\ncanva: 0.17\njavascript: 0.16\ncontext: 0.14\nlibrari: 0.13\n2014: 0.11\nvisual: 0.11\nlayout: 0.10\nmenu: 0.09\nuse: 0.09\nmay: 0.09\nweb: 0.08\nnode: 0.08\n",
+            "ts" : "2016.01.20 05:20:51"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3611",
+            "source" : "n1438",
+            "target" : "n1441"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1443",
+            "key" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjHmNWjzLbKAhVKJnIKHZhnD1EQFggdMAA&url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F31273436%2Fcytoscape-js-add-title-to-whole-complex-right-click-enable&usg=AFQjCNHjOJKrClY9KWsLv0Ea7uuTJz7dnA&sig2=RH72O1flJWyjEcnPL94OuA",
+            "name" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjHmNWjzLbKAhVKJnIKHZhnD1EQFggdMAA&url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F31273436%2Fcytoscape-js-add-title-to-whole-complex-right-click-enable&usg=AFQjCNHjOJKrClY9KWsLv0Ea7uuTJz7dnA&sig2=RH72O1flJWyjEcnPL94OuA",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 05:21:19"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3612",
+            "source" : "n1441",
+            "target" : "n1443"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1445",
+            "key" : "url:http://stackoverflow.com/questions/31273436/cytoscape-js-add-title-to-whole-complex-right-click-enable",
+            "name" : "url:http://stackoverflow.com/questions/31273436/cytoscape-js-add-title-to-whole-complex-right-click-enable",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 05:21:33"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "nav_link",
+            "id" : "e3613",
+            "source" : "n1443",
+            "target" : "n1445"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1448",
+            "key" : "google:cytoscape.js+cxttap",
+            "name" : "google:cytoscape.js+cxttap",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.80\nevent: 0.28\nclick: 0.23\n2015: 0.23\ngraph: 0.23\nright: 0.21\ncreat: 0.15\noct: 0.15\nqtip: 0.13\nblack: 0.13\nscreen: 0.13\nappera: 0.11\noccur: 0.11\n8: 0.10\nnode: 0.10\n",
+            "ts" : "2016.01.20 05:28:27"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3614",
+            "source" : "n1445",
+            "target" : "n1448"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1451",
+            "key" : "google:chrome+extension+canvas+right+click",
+            "name" : "google:chrome+extension+canvas+right+click",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:16"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3615",
+            "source" : "n1441",
+            "target" : "n1451"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1452",
+            "key" : "url:http://stackoverflow.com/questions/18051195/binding-a-click-on-the-canvas-excluding-the-node-edge-cytoscape-js-elements-to",
+            "name" : "url:http://stackoverflow.com/questions/18051195/binding-a-click-on-the-canvas-excluding-the-node-edge-cytoscape-js-elements-to",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 05:29:16"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1454",
+            "key" : "url:http://stackoverflow.com/questions/19115940/adding-cytoscape-node-at-the-location-of-mouse-cursor?rq=1",
+            "name" : "url:http://stackoverflow.com/questions/19115940/adding-cytoscape-node-at-the-location-of-mouse-cursor?rq=1",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:08:45"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3616",
+            "source" : "n1452",
+            "target" : "n1454"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1458",
+            "key" : "google:chrome+extension+right+click+canvas",
+            "name" : "google:chrome+extension+right+click+canvas",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:19"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3617",
+            "source" : "n1441",
+            "target" : "n1458"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1460",
+            "key" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj82-Cp17bKAhVk_HIKHUSODPcQFggdMAA&url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F6789843%2Fdisable-right-click-menu-in-chrome&usg=AFQjCNGZtfhUyhK_AxIw5x18Bu1tpIgb5g&sig2=5PkeIO5Tz2VFRCGKN34PwQ",
+            "name" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj82-Cp17bKAhVk_HIKHUSODPcQFggdMAA&url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F6789843%2Fdisable-right-click-menu-in-chrome&usg=AFQjCNGZtfhUyhK_AxIw5x18Bu1tpIgb5g&sig2=5PkeIO5Tz2VFRCGKN34PwQ",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:44"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3618",
+            "source" : "n1458",
+            "target" : "n1460"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1462",
+            "key" : "url:http://stackoverflow.com/questions/6789843/disable-right-click-menu-in-chrome",
+            "name" : "url:http://stackoverflow.com/questions/6789843/disable-right-click-menu-in-chrome",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:47"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "nav_link",
+            "id" : "e3619",
+            "source" : "n1460",
+            "target" : "n1462"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1464",
+            "key" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwj82-Cp17bKAhVk_HIKHUSODPcQFgg7MAQ&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fenable-right-click%2Fhhojmcideegachlhfgfdhailpfhgknjm%3Fhl%3Den&usg=AFQjCNFEa18jpCaLLXhyOTm6io2TTHFQSw&sig2=4GnctuYlXGvQ0xlsiCDpSw",
+            "name" : "url:https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwj82-Cp17bKAhVk_HIKHUSODPcQFgg7MAQ&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fenable-right-click%2Fhhojmcideegachlhfgfdhailpfhgknjm%3Fhl%3Den&usg=AFQjCNFEa18jpCaLLXhyOTm6io2TTHFQSw&sig2=4GnctuYlXGvQ0xlsiCDpSw",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:49"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "tab_link",
+            "id" : "e3620",
+            "source" : "n1458",
+            "target" : "n1464"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n1466",
+            "key" : "url:https://chrome.google.com/webstore/detail/enable-right-click/hhojmcideegachlhfgfdhailpfhgknjm?hl=en",
+            "name" : "url:https://chrome.google.com/webstore/detail/enable-right-click/hhojmcideegachlhfgfdhailpfhgknjm?hl=en",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:10:59"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "nav_link",
+            "id" : "e3621",
+            "source" : "n1464",
+            "target" : "n1466"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1469",
+            "key" : "google:cytoscape.js+canvas+contextmenu",
+            "name" : "google:cytoscape.js+canvas+contextmenu",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:11:34"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3622",
+            "source" : "n1441",
+            "target" : "n1469"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1471",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js-cxtmenu",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js-cxtmenu",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:12:16"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "new_tab",
+            "id" : "e3623",
+            "source" : "n1469",
+            "target" : "n1471"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1474",
+            "key" : "google:cytoscape.js+cxtmenu+demo",
+            "name" : "google:cytoscape.js+cxtmenu+demo",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:25:48"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3624",
+            "source" : "n1471",
+            "target" : "n1474"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1475",
+            "key" : "url:http://stackoverflow.com/questions/28383488/how-to-add-nodes-at-specified-positions-in-cytoscape-js/28383704#28383704",
+            "name" : "url:http://stackoverflow.com/questions/28383488/how-to-add-nodes-at-specified-positions-in-cytoscape-js/28383704#28383704",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1478",
+            "key" : "google:\"cytoscape.js\"+cxtmenu+coordinates",
+            "name" : "google:\"cytoscape.js\"+cxtmenu+coordinates",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.71\nuse: 0.36\nplugin: 0.35\njqueri: 0.34\nposit: 0.26\nnode: 0.22\npackag: 0.19\nmenu: 0.15\ncan: 0.13\nqtip: 0.11\n2014: 0.10\ncontext: 0.10\nstart: 0.10\nset: 0.10\n2015: 0.09\n",
+            "ts" : "2016.01.20 13:44:57"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3625",
+            "source" : "n1475",
+            "target" : "n1478"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1482",
+            "key" : "google:\"cytoscape.js\"+click+coordinates",
+            "name" : "google:\"cytoscape.js\"+click+coordinates",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 19:03:23"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "query_idea",
+            "id" : "e3626",
+            "source" : "n1478",
+            "target" : "n1482"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1289",
+            "key" : "google:cytoscape.js+node+hint",
+            "name" : "google:cytoscape.js+node+hint",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.71\ntooltip: 0.33\nqtip: 0.20\ngraph: 0.20\n2015: 0.19\nuse: 0.18\nmouseov: 0.16\n2014: 0.14\nadd: 0.14\njavascript: 0.12\nlibrari: 0.11\noct: 0.09\ncan: 0.09\nevent: 0.08\nlabel: 0.08\n",
+            "ts" : "2016.01.17 17:35:38"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3627",
+            "source" : "n1289",
+            "target" : "n1281"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1529",
+            "key" : "url:https://github.com/cytoscape/cytoscape.js/issues/401",
+            "name" : "url:https://github.com/cytoscape/cytoscape.js/issues/401",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.19 08:15:05"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3630",
+            "source" : "n1437",
+            "target" : "n1529"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1531",
+            "key" : "url:https://gist.github.com/5772040",
+            "name" : "url:https://gist.github.com/5772040",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.19 08:15:15"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3631",
+            "source" : "n1437",
+            "target" : "n1531"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3632",
+            "source" : "n1441",
+            "target" : "n1445"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3633",
+            "source" : "n1441",
+            "target" : "n1452"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1542",
+            "key" : "url:http://bundlr.com/clips/51ab5842c087de531600009f",
+            "name" : "url:http://bundlr.com/clips/51ab5842c087de531600009f",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 05:29:28"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3634",
+            "source" : "n1441",
+            "target" : "n1542"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n953",
+            "key" : "google:cytoscape.js+examples",
+            "name" : "google:cytoscape.js+examples",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.63\nexampl: 0.29\ngraph: 0.25\nlibrari: 0.22\n2015: 0.17\njavascript: 0.17\n2014: 0.13\nvisual: 0.11\nnetwork: 0.10\nlayout: 0.07\nuse: 0.07\nfeb: 0.07\ninteract: 0.06\nmay: 0.06\nd3: 0.06\n",
+            "ts" : "2016.01.15 06:06:06"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1559",
+            "key" : "url:https://www.youtube.com/watch?v=qMr9OQOwFiU",
+            "name" : "url:https://www.youtube.com/watch?v=qMr9OQOwFiU",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:28:57"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3637",
+            "source" : "n953",
+            "target" : "n1559"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1567",
+            "key" : "url:http://www.youtube.com/watch?v=LXY7Ovszt98",
+            "name" : "url:http://www.youtube.com/watch?v=LXY7Ovszt98",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:33:13"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3638",
+            "source" : "n882",
+            "target" : "n1567"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1569",
+            "key" : "url:https://www.youtube.com/watch?v=rkStyTXcMbY",
+            "name" : "url:https://www.youtube.com/watch?v=rkStyTXcMbY",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:33:13"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3639",
+            "source" : "n882",
+            "target" : "n1569"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1571",
+            "key" : "url:http://xdsoft.net/jquery-plugins/cytoscape.js-cxtmenu/",
+            "name" : "url:http://xdsoft.net/jquery-plugins/cytoscape.js-cxtmenu/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 06:34:52"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3640",
+            "source" : "n1437",
+            "target" : "n1571"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1582",
+            "key" : "google:cytoscape.js+window+event",
+            "name" : "google:cytoscape.js+window+event",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.58\n2015: 0.23\n2014: 0.17\nnode: 0.15\njavascript: 0.13\ngraph: 0.13\nlibrari: 0.13\nuse: 0.10\nselect: 0.08\n2013: 0.07\nnetwork: 0.07\noct: 0.07\nx: 0.06\njqueri: 0.06\nopen: 0.06\n",
+            "ts" : "2016.01.20 19:24:18"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n1590",
+            "key" : "url:http://stackoverflow.com/questions/21294962/cytoscape-js-e-originalevent-x-with-different-behavior-on-browsers",
+            "name" : "url:http://stackoverflow.com/questions/21294962/cytoscape-js-e-originalevent-x-with-different-behavior-on-browsers",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.20 19:24:57"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3641",
+            "source" : "n1582",
+            "target" : "n1590"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n2088",
+            "key" : "google:cytoscape+cxtmenu+clearing",
+            "name" : "google:cytoscape+cxtmenu+clearing",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "js: 0.60\ncytoscap: 0.55\nuse: 0.39\nplugin: 0.35\njqueri: 0.35\nclear: 0.21\npackag: 0.17\ngithub: 0.15\njan: 0.14\n2015: 0.14\n1: 0.14\n2014: 0.14\nhistori: 0.14\njavascript: 0.13\n2013: 0.09\n",
+            "ts" : "2016.01.29 20:30:08"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n2090",
+            "key" : "url:http://stackoverflow.com/questions/19287934/how-do-i-use-the-jquery-cxtmenu-js-plugin-packaged-with-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/19287934/how-do-i-use-the-jquery-cxtmenu-js-plugin-packaged-with-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.01.29 20:31:38"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3675",
+            "source" : "n2088",
+            "target" : "n2090"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n2208",
+            "key" : "google:cytoscape.js+scratch+data+selector",
+            "name" : "google:cytoscape.js+scratch+data+selector",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.39\n2015: 0.12\nuse: 0.12\njqueri: 0.12\ngraph: 0.11\nnode: 0.10\nselect: 0.09\njavascript: 0.09\nlibrari: 0.09\nweb: 0.07\ncan: 0.07\n0: 0.07\nget: 0.07\ncreat: 0.07\n2014: 0.07\n",
+            "ts" : "2016.01.30 16:33:16"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3751",
+            "source" : "n2208",
+            "target" : "n1166"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n2847",
+            "key" : "topic:testwrite",
+            "name" : "topic:testwrite",
+            "node_type" : "topic",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "related",
+            "id" : "e3755",
+            "source" : "n2847",
+            "target" : "n1438"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n2853",
+            "key" : "google:cytoscape.js+show++classes",
+            "name" : "google:cytoscape.js+show++classes",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : "cytoscap: 0.78\n2015: 0.27\nclass: 0.21\nnode: 0.19\ngraph: 0.15\n2014: 0.14\nlibrari: 0.11\nuse: 0.10\nqtip: 0.10\njavascript: 0.10\nstack: 0.09\ndisplay: 0.08\nsep: 0.08\noverflow: 0.07\naug: 0.07\n",
+            "ts" : "2016.02.09 19:50:56"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n2858",
+            "key" : "url:http://stackoverflow.com/questions/27280708/how-do-i-make-classes-work-in-cytoscape-js",
+            "name" : "url:http://stackoverflow.com/questions/27280708/how-do-i-make-classes-work-in-cytoscape-js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null,
+            "ts" : "2016.02.09 19:51:47"
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e3756",
+            "source" : "n2853",
+            "target" : "n2858"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n3835",
+            "key" : "topic:cytoe",
+            "name" : "topic:cytoe",
+            "node_type" : "topic",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "related",
+            "id" : "e3836",
+            "source" : "n3835",
+            "target" : "n1441"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n3837",
+            "key" : "topic:cyto0a",
+            "name" : "topic:cyto0a",
+            "node_type" : "topic",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "related",
+            "id" : "e3838",
+            "source" : "n3837",
+            "target" : "n1437"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "related",
+            "id" : "e3839",
+            "source" : "n3837",
+            "target" : "n1441"
+         },
+         "group" : "edges"
+      }
+   ],
+   "test" : 2,
+   "testdata" : 1
+}

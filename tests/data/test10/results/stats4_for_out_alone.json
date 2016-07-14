@@ -1,0 +1,9 @@
+{
+   "edge" : 25,
+   "edge_type:jump1" : 25,
+   "node" : 35,
+   "node_type:query" : 11,
+   "node_type:url" : 24,
+   "source_node" : 11,
+   "target_node" : 24
+}

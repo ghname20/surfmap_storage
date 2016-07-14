@@ -1,0 +1,27 @@
+{
+   "edge_count" : 42571,
+   "name" : 6,
+   "node_count" : 52892,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "edge" : {},
+            "filter_type" : "edge",
+            "from" : {
+               "key" : "\\\\Qgoogle:test5 graph+visualization+javascript\\\\E"
+            },
+            "to" : {
+               "text" : "^"
+            }
+         }
+      ],
+      "match_undef" : 0,
+      "method" : "get_graph_data",
+      "request" : "get_graph_data",
+      "request_source" : "popup"
+   },
+   "result" : [],
+   "test" : 6,
+   "testdata" : 1
+}

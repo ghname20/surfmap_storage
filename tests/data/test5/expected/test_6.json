@@ -1,0 +1,105 @@
+{
+   "edge_count" : 2067,
+   "node_count" : 3606,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "edge" : {},
+            "filter_type" : "edge",
+            "from" : {
+               "text" : "test5.*visual"
+            },
+            "start" : "2016-01-10",
+            "to" : {}
+         }
+      ],
+      "match_undef" : 0
+   },
+   "result" : [
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13593",
+            "key" : "topic:test5 graph visualisation",
+            "name" : "topic:test5 graph visualisation",
+            "node_type" : "topic",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13594",
+            "key" : "google:test5 graph+visualization+javascript",
+            "name" : "google:test5 graph+visualization+javascript",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "session",
+            "id" : "e13595",
+            "source" : "n13593",
+            "target" : "n13594"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13596",
+            "key" : "url:test5http://stackoverflow.test/questions/7034/graph-visualization-library-in-javascript",
+            "name" : "url:test5http://stackoverflow.test/questions/7034/graph-visualization-library-in-javascript",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump",
+            "id" : "e13597",
+            "source" : "n13594",
+            "target" : "n13596"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13598",
+            "key" : "url:test5http://stackoverflow.test/questions/24396708/zoomable-network-graph-in-angularjs",
+            "name" : "url:test5http://stackoverflow.test/questions/24396708/zoomable-network-graph-in-angularjs",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump",
+            "id" : "e13599",
+            "source" : "n13594",
+            "target" : "n13598"
+         },
+         "group" : "edges"
+      }
+   ],
+   "test" : 6,
+   "testdata" : 1
+}

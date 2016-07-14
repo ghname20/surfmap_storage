@@ -1,0 +1,24 @@
+{
+   "compute_relevance" : 0,
+   "expand" : 1,
+   "filters" : [
+      {
+         "end" : "2016-03-26T05:27:02",
+         "filter_type" : "edge",
+         "from" : {
+            "text" : "nootrop"
+         },
+         "start" : "2016-03-10T10:00:00"
+      },
+      {
+         "end" : "2016-03-26T05:27:02",
+         "filter_type" : "edge",
+         "start" : "2016-03-10T10:00:00",
+         "to" : {
+            "text" : "nootrop"
+         }
+      }
+   ],
+   "request" : "get_graph_data_with_stats",
+   "request_source" : "popup"
+}

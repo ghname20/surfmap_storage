@@ -1,0 +1,5390 @@
+{
+   "edge_count" : 42571,
+   "name" : 4,
+   "node_count" : 52892,
+   "request" : {
+      "expand" : 1,
+      "filters" : [
+         {
+            "edge" : {},
+            "filter_type" : "edge",
+            "from" : {
+               "text" : "novosti"
+            },
+            "to" : {
+               "text" : "^"
+            }
+         }
+      ],
+      "match_undef" : 0
+   },
+   "result" : [
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n12219",
+            "key" : "google:site:novosti-kosmonavtiki.ru+falcon+9+приземление",
+            "name" : "google:site:novosti-kosmonavtiki.ru+falcon+9+приземление",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n12231",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic15003/?PAGEN_1=20",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic15003/?PAGEN_1=20",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e161541",
+            "source" : "n12219",
+            "target" : "n12231"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12233",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/js/main/core/css/core_viewer.css?140674998920183",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/js/main/core/css/core_viewer.css?140674998920183",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161542",
+            "source" : "n12231",
+            "target" : "n12233"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12235",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_d75fd3c0b75b0dc125ea35cf0e7e2792/page_d75fd3c0b75b0dc125ea35cf0e7e2792_25613abf33eab5936ea76d88e2a3cecb.css?139644663142970",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_d75fd3c0b75b0dc125ea35cf0e7e2792/page_d75fd3c0b75b0dc125ea35cf0e7e2792_25613abf33eab5936ea76d88e2a3cecb.css?139644663142970",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161543",
+            "source" : "n12231",
+            "target" : "n12235"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12237",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/kernel_main/kernel_main.css?140675003137586",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/kernel_main/kernel_main.css?140675003137586",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161544",
+            "source" : "n12231",
+            "target" : "n12237"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12241",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/js/main/rsasecurity.js?135361268025044",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/js/main/rsasecurity.js?135361268025044",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161545",
+            "source" : "n12231",
+            "target" : "n12241"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12243",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/js/main/rating.js?140674989416426",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/js/main/rating.js?140674989416426",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161546",
+            "source" : "n12231",
+            "target" : "n12243"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12245",
+            "key" : "url:http://fonts.googleapis.com/css?family=Jura:600&subset=cyrillic,cyrillic-ext",
+            "name" : "url:http://fonts.googleapis.com/css?family=Jura:600&subset=cyrillic,cyrillic-ext",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161547",
+            "source" : "n12231",
+            "target" : "n12245"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12247",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/nk-default.css",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/nk-default.css",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161548",
+            "source" : "n12231",
+            "target" : "n12247"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12249",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/template_83c703a38b71b371a366dc833379d456/template_83c703a38b71b371a366dc833379d456_378edcc2f93c27eff07e827f5ecb5577.js?1396446611515",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/template_83c703a38b71b371a366dc833379d456/template_83c703a38b71b371a366dc833379d456_378edcc2f93c27eff07e827f5ecb5577.js?1396446611515",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161549",
+            "source" : "n12231",
+            "target" : "n12249"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12251",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/js/main/core/core_viewer.js?1406749894101529",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/js/main/core/core_viewer.js?1406749894101529",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161550",
+            "source" : "n12231",
+            "target" : "n12251"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12253",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/page_f90a0baeabe62b1c25aff830821a4b2f/page_f90a0baeabe62b1c25aff830821a4b2f_5e2b742d4673a5905878a06c99d9aa5d.js?139644661111898",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/page_f90a0baeabe62b1c25aff830821a4b2f/page_f90a0baeabe62b1c25aff830821a4b2f_5e2b742d4673a5905878a06c99d9aa5d.js?139644661111898",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161551",
+            "source" : "n12231",
+            "target" : "n12253"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12256",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/kernel_main/kernel_main.js?1420503902374783",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/kernel_main/kernel_main.js?1420503902374783",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161552",
+            "source" : "n12231",
+            "target" : "n12256"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12258",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/js/jquery-1.8.0.min.js",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/js/jquery-1.8.0.min.js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161553",
+            "source" : "n12231",
+            "target" : "n12258"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12260",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/topbutton.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/topbutton.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161554",
+            "source" : "n12231",
+            "target" : "n12260"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12262",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/logo.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/logo.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161555",
+            "source" : "n12231",
+            "target" : "n12262"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12264",
+            "key" : "url:http://novosti-kosmonavtiki.ru/images/search.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/images/search.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161556",
+            "source" : "n12231",
+            "target" : "n12264"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12266",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/components/bitrix/system.auth.form/auth/images/login.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/components/bitrix/system.auth.form/auth/images/login.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161557",
+            "source" : "n12231",
+            "target" : "n12266"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12268",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/components/bitrix/system.auth.form/auth/images/register.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/components/bitrix/system.auth.form/auth/images/register.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161558",
+            "source" : "n12231",
+            "target" : "n12268"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12272",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_biggrin.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_biggrin.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161559",
+            "source" : "n12231",
+            "target" : "n12272"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12274",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_sad.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_sad.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161560",
+            "source" : "n12231",
+            "target" : "n12274"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12276",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/77a/%D0%B5%D0%B6%D0%B8%D0%BA.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/77a/%D0%B5%D0%B6%D0%B8%D0%BA.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161561",
+            "source" : "n12231",
+            "target" : "n12276"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12278",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/bb4/bobrov4.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/bb4/bobrov4.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161562",
+            "source" : "n12231",
+            "target" : "n12278"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12280",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/d30/6412.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/d30/6412.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161563",
+            "source" : "n12231",
+            "target" : "n12280"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12282",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/e62/avatar1.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/e62/avatar1.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161564",
+            "source" : "n12231",
+            "target" : "n12282"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12284",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/552/indiana_jones_hat.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/552/indiana_jones_hat.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161565",
+            "source" : "n12231",
+            "target" : "n12284"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12286",
+            "key" : "url:http://novosti-kosmonavtiki.ru/myresize/796x117/images/banners/icsputnik-banner-796x117.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/myresize/796x117/images/banners/icsputnik-banner-796x117.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161566",
+            "source" : "n12231",
+            "target" : "n12286"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12291",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/canvtop.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/canvtop.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161567",
+            "source" : "n12247",
+            "target" : "n12291"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12295",
+            "key" : "url:http://novosti-kosmonavtiki.ru/images/knopki.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/images/knopki.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161568",
+            "source" : "n12247",
+            "target" : "n12295"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12297",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/canvcut.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/canvcut.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161569",
+            "source" : "n12247",
+            "target" : "n12297"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12299",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/footer1_bg.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/footer1_bg.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161570",
+            "source" : "n12247",
+            "target" : "n12299"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12301",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/topmenubuttons.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/topmenubuttons.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161571",
+            "source" : "n12247",
+            "target" : "n12301"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12303",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/topmenubuttonshover.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK2/images/topmenubuttonshover.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161572",
+            "source" : "n12247",
+            "target" : "n12303"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12305",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/rating.vote/templates/standart/images/sprite.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/rating.vote/templates/standart/images/sprite.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161573",
+            "source" : "n12235",
+            "target" : "n12305"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12307",
+            "key" : "url:http://novosti-kosmonavtiki.ru/images/bgplanetC.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/images/bgplanetC.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161574",
+            "source" : "n12247",
+            "target" : "n12307"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12309",
+            "key" : "url:http://fonts.gstatic.com/s/jura/v7/sGgK78qWBznL37N2OdMZiA.woff2",
+            "name" : "url:http://fonts.gstatic.com/s/jura/v7/sGgK78qWBznL37N2OdMZiA.woff2",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161575",
+            "source" : "n12245",
+            "target" : "n12309"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12311",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.04492092179134488&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic15003/%3FPAGEN_1%3D20",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.04492092179134488&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic15003/%3FPAGEN_1%3D20",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161576",
+            "source" : "n12231",
+            "target" : "n12311"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12314",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.74584836140275",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.74584836140275",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161577",
+            "source" : "n12231",
+            "target" : "n12314"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12321",
+            "key" : "url:http://www.google-analytics.com/r/collect?v=1&_v=j40&a=1532003361&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum12%2Ftopic15003%2F%3FPAGEN_1%3D20&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20Orbcomm%20G2%20(x11)%20-%20Falcon%209%20v1.2%20-%20Canaveral%20SLC-40%20-%2020.12.2015%2001%3A25%20UTC&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AEAAAEABI~&jid=1306531303&cid=1027491010.1452119444&tid=UA-66670262-2&_r=1&z=2087563680",
+            "name" : "url:http://www.google-analytics.com/r/collect?v=1&_v=j40&a=1532003361&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum12%2Ftopic15003%2F%3FPAGEN_1%3D20&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20Orbcomm%20G2%20(x11)%20-%20Falcon%209%20v1.2%20-%20Canaveral%20SLC-40%20-%2020.12.2015%2001%3A25%20UTC&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AEAAAEABI~&jid=1306531303&cid=1027491010.1452119444&tid=UA-66670262-2&_r=1&z=2087563680",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161579",
+            "source" : "n12231",
+            "target" : "n12321"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12323",
+            "key" : "url:http://pp.vk.me/c629408/v629408122/25d47/GU13Hy1OTLU.jpg",
+            "name" : "url:http://pp.vk.me/c629408/v629408122/25d47/GU13Hy1OTLU.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161580",
+            "source" : "n12231",
+            "target" : "n12323"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12326",
+            "key" : "url:http://warn.recursive.dnsbycomodo.com/?host=top.list.ru",
+            "name" : "url:http://warn.recursive.dnsbycomodo.com/?host=top.list.ru",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161581",
+            "source" : "n12231",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12328",
+            "key" : "url:http://novosti-kosmonavtiki.ru/favicon.ico",
+            "name" : "url:http://novosti-kosmonavtiki.ru/favicon.ico",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161582",
+            "source" : "n12231",
+            "target" : "n12328"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n12334",
+            "key" : "url:http://novosti-kosmonavtiki.ru/news/30033/",
+            "name" : "url:http://novosti-kosmonavtiki.ru/news/30033/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e161583",
+            "source" : "n12219",
+            "target" : "n12334"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12336",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK15/page_0a126443fdd689c75d735d3db39aa307/page_0a126443fdd689c75d735d3db39aa307_c4c627b9879dd02a2ad0bbe28eb1feed.css?1396446628330",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK15/page_0a126443fdd689c75d735d3db39aa307/page_0a126443fdd689c75d735d3db39aa307_c4c627b9879dd02a2ad0bbe28eb1feed.css?1396446628330",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161584",
+            "source" : "n12334",
+            "target" : "n12336"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12338",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK15/kernel_main/kernel_main.css?140675001037586",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK15/kernel_main/kernel_main.css?140675001037586",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161585",
+            "source" : "n12334",
+            "target" : "n12338"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12340",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK15/template_e27fe12926969db4c296bbf952efd890/template_e27fe12926969db4c296bbf952efd890_71d7a0c68a05dc76ee70980288fe9b23.js?1396446613517",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK15/template_e27fe12926969db4c296bbf952efd890/template_e27fe12926969db4c296bbf952efd890_71d7a0c68a05dc76ee70980288fe9b23.js?1396446613517",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161586",
+            "source" : "n12334",
+            "target" : "n12340"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12342",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/css/prettyPhoto.css",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/css/prettyPhoto.css",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161587",
+            "source" : "n12334",
+            "target" : "n12342"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12344",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/nk-default.css",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/nk-default.css",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161588",
+            "source" : "n12334",
+            "target" : "n12344"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12348",
+            "key" : "url:http://novosti-kosmonavtiki.ru/js/msg.js",
+            "name" : "url:http://novosti-kosmonavtiki.ru/js/msg.js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161589",
+            "source" : "n12334",
+            "target" : "n12348"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12350",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/js/jquery.ui.core.js",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/js/jquery.ui.core.js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161590",
+            "source" : "n12334",
+            "target" : "n12350"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12352",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/js/jquery.ui.position.js",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/js/jquery.ui.position.js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161591",
+            "source" : "n12334",
+            "target" : "n12352"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12354",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/js/jquery.prettyPhoto.js",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/js/jquery.prettyPhoto.js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161592",
+            "source" : "n12334",
+            "target" : "n12354"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12356",
+            "key" : "url:http://novosti-kosmonavtiki.ru/js/underscore.js",
+            "name" : "url:http://novosti-kosmonavtiki.ru/js/underscore.js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161593",
+            "source" : "n12334",
+            "target" : "n12356"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12358",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/js/jquery-1.8.0.min.js",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/js/jquery-1.8.0.min.js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161594",
+            "source" : "n12334",
+            "target" : "n12358"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12360",
+            "key" : "url:http://novosti-kosmonavtiki.ru/js/backbone.js",
+            "name" : "url:http://novosti-kosmonavtiki.ru/js/backbone.js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161595",
+            "source" : "n12334",
+            "target" : "n12360"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12362",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/js/mainjs.php",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/js/mainjs.php",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161596",
+            "source" : "n12334",
+            "target" : "n12362"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12364",
+            "key" : "url:http://novosti-kosmonavtiki.ru/js/basket.js",
+            "name" : "url:http://novosti-kosmonavtiki.ru/js/basket.js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161597",
+            "source" : "n12334",
+            "target" : "n12364"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12366",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/topbutton.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/topbutton.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161598",
+            "source" : "n12334",
+            "target" : "n12366"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12368",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK15/kernel_main/kernel_main.js?1406784478331381",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK15/kernel_main/kernel_main.js?1406784478331381",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161599",
+            "source" : "n12334",
+            "target" : "n12368"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12370",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/components/bitrix/system.auth.form/auth/images/login.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/components/bitrix/system.auth.form/auth/images/login.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161600",
+            "source" : "n12334",
+            "target" : "n12370"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12372",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/components/bitrix/system.auth.form/auth/images/register.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/components/bitrix/system.auth.form/auth/images/register.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161601",
+            "source" : "n12334",
+            "target" : "n12372"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12374",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/canvtop.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/canvtop.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161602",
+            "source" : "n12344",
+            "target" : "n12374"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12378",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/logo.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/logo.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161603",
+            "source" : "n12334",
+            "target" : "n12378"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12380",
+            "key" : "url:http://fonts.gstatic.com/s/jura/v7/tyCdH2pWDT6mgoGCoxVzq_Y6323mHUZFJMgTvxaG2iE.woff2",
+            "name" : "url:http://fonts.gstatic.com/s/jura/v7/tyCdH2pWDT6mgoGCoxVzq_Y6323mHUZFJMgTvxaG2iE.woff2",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161604",
+            "source" : "n12245",
+            "target" : "n12380"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12382",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/canvcut.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/canvcut.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161605",
+            "source" : "n12344",
+            "target" : "n12382"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12384",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=43143160&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fnews%2F30033%2F&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%22%D0%A0%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%22%3A%20%D0%BF%D1%80%D0%B8%20%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%B0%20%D0%BD%D0%B0%2010%20%D0%BB%D0%B5%D1%82%20%D0%B2%D1%81%D0%B5%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C%20%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=275549695",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=43143160&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fnews%2F30033%2F&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%22%D0%A0%D0%BE%D1%81%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%22%3A%20%D0%BF%D1%80%D0%B8%20%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%20%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%D0%B0%20%D0%BD%D0%B0%2010%20%D0%BB%D0%B5%D1%82%20%D0%B2%D1%81%D0%B5%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B%20%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D1%81%D1%8C%20%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=275549695",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161606",
+            "source" : "n12334",
+            "target" : "n12384"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12386",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/iblock/de8/nk2015_12_cover.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/iblock/de8/nk2015_12_cover.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161607",
+            "source" : "n12334",
+            "target" : "n12386"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12388",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.5739535349421203&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/news/30033/",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.5739535349421203&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/news/30033/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161608",
+            "source" : "n12334",
+            "target" : "n12388"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12390",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/footer1_bg.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/footer1_bg.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161609",
+            "source" : "n12344",
+            "target" : "n12390"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12392",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/topmenubuttons.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/topmenubuttons.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161610",
+            "source" : "n12344",
+            "target" : "n12392"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12394",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/medialibrary/721/navitech_2016_150x150.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/medialibrary/721/navitech_2016_150x150.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161611",
+            "source" : "n12334",
+            "target" : "n12394"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12396",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.4160804694984108",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.4160804694984108",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161612",
+            "source" : "n12334",
+            "target" : "n12396"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12398",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/topmenubuttonshover.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/templates/NK15/images/topmenubuttonshover.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161613",
+            "source" : "n12344",
+            "target" : "n12398"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161614",
+            "source" : "n12334",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12405",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161616",
+            "source" : "n12334",
+            "target" : "n12405"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12407",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_0984d50daf9954d5652d35e59701d674/page_0984d50daf9954d5652d35e59701d674_9529e88558d56de6f3ce4a04493db0ff.css?139644663038752",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_0984d50daf9954d5652d35e59701d674/page_0984d50daf9954d5652d35e59701d674_9529e88558d56de6f3ce4a04493db0ff.css?139644663038752",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161617",
+            "source" : "n12405",
+            "target" : "n12407"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12409",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/page_ce8a19f9f79994da92dbad841c3aa650/page_ce8a19f9f79994da92dbad841c3aa650_3f4e4cdcd898f70e6d3115e50ccc62a2.js?13964466136376",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/page_ce8a19f9f79994da92dbad841c3aa650/page_ce8a19f9f79994da92dbad841c3aa650_3f4e4cdcd898f70e6d3115e50ccc62a2.js?13964466136376",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161618",
+            "source" : "n12405",
+            "target" : "n12409"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12411",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/template_6e9ad3a735356de848b7abe73042f410/template_6e9ad3a735356de848b7abe73042f410_255ae275f9896e37a3decd00d81d25dd.js?13964466146717",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/template_6e9ad3a735356de848b7abe73042f410/template_6e9ad3a735356de848b7abe73042f410_255ae275f9896e37a3decd00d81d25dd.js?13964466146717",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161619",
+            "source" : "n12405",
+            "target" : "n12411"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12413",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/default.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/default.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161620",
+            "source" : "n12407",
+            "target" : "n12413"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12415",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/newposts.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/newposts.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161621",
+            "source" : "n12407",
+            "target" : "n12415"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12417",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/images/feed-icon.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/images/feed-icon.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161622",
+            "source" : "n12407",
+            "target" : "n12417"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12419",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=439474322&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%D0%A4%D0%BE%D1%80%D1%83%D0%BC%D1%8B&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=316633509",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=439474322&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%D0%A4%D0%BE%D1%80%D1%83%D0%BC%D1%8B&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=316633509",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161623",
+            "source" : "n12405",
+            "target" : "n12419"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12421",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/news/30033/;j=true;s=1326*1080;d=24;rand=0.2917343336157501",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/news/30033/;j=true;s=1326*1080;d=24;rand=0.2917343336157501",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161624",
+            "source" : "n12405",
+            "target" : "n12421"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12423",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.9540301847737283&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/news/30033/&r=http%3A//novosti-kosmonavtiki.ru/news/30033/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.9540301847737283&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/news/30033/&r=http%3A//novosti-kosmonavtiki.ru/news/30033/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161625",
+            "source" : "n12405",
+            "target" : "n12423"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161626",
+            "source" : "n12405",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12426",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161627",
+            "source" : "n12405",
+            "target" : "n12426"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12428",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/page_d41e812669c55207231550c15c714fcc/page_d41e812669c55207231550c15c714fcc_f4ac93fc37b6f3c005b3d3b2791f2faa.js?139644661417290",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/page_d41e812669c55207231550c15c714fcc/page_d41e812669c55207231550c15c714fcc_f4ac93fc37b6f3c005b3d3b2791f2faa.js?139644661417290",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161628",
+            "source" : "n12426",
+            "target" : "n12428"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12430",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/moved.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/moved.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161629",
+            "source" : "n12407",
+            "target" : "n12430"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12432",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/sticky.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/sticky.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161630",
+            "source" : "n12407",
+            "target" : "n12432"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12434",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/closed.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/closed.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161631",
+            "source" : "n12407",
+            "target" : "n12434"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12436",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1231861516&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum12%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B0&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=565977360",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1231861516&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum12%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B0&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=565977360",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161632",
+            "source" : "n12426",
+            "target" : "n12436"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12438",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.6031890285667032&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/&r=http%3A//novosti-kosmonavtiki.ru/forum/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum12/",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.6031890285667032&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/&r=http%3A//novosti-kosmonavtiki.ru/forum/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum12/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161633",
+            "source" : "n12426",
+            "target" : "n12438"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12440",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/;j=true;s=1326*1080;d=24;rand=0.38588475272990763",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/;j=true;s=1326*1080;d=24;rand=0.38588475272990763",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161634",
+            "source" : "n12426",
+            "target" : "n12440"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161635",
+            "source" : "n12426",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12443",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic14761/",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic14761/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161636",
+            "source" : "n12426",
+            "target" : "n12443"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12445",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_87f92a41ec4cbe7af6f78d832edc4f90/page_87f92a41ec4cbe7af6f78d832edc4f90_37bf8c92f275b37f7e2a819c0629aac4.css?139644673849025",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_87f92a41ec4cbe7af6f78d832edc4f90/page_87f92a41ec4cbe7af6f78d832edc4f90_37bf8c92f275b37f7e2a819c0629aac4.css?139644673849025",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161637",
+            "source" : "n12443",
+            "target" : "n12445"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12447",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/cde/%D0%91%D1%83%D1%84%D0%B5%D1%80%20%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0-4.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/cde/%D0%91%D1%83%D1%84%D0%B5%D1%80%20%D0%BE%D0%B1%D0%BC%D0%B5%D0%BD%D0%B0-4.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161638",
+            "source" : "n12443",
+            "target" : "n12447"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12449",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/60c/100612198.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/60c/100612198.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161639",
+            "source" : "n12443",
+            "target" : "n12449"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12451",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/905/q1.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/905/q1.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161640",
+            "source" : "n12443",
+            "target" : "n12451"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12455",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=58366&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=58366&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161641",
+            "source" : "n12443",
+            "target" : "n12455"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12457",
+            "key" : "url:http://spacenews.com/wp-content/uploads/2015/03/Gwynne-Mission-Control-1-879x485.jpg",
+            "name" : "url:http://spacenews.com/wp-content/uploads/2015/03/Gwynne-Mission-Control-1-879x485.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161642",
+            "source" : "n12443",
+            "target" : "n12457"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12459",
+            "key" : "url:http://spacenews.com/wp-content/uploads/2014/11/MartinHalliwell_SES4X3-336x253.jpg",
+            "name" : "url:http://spacenews.com/wp-content/uploads/2014/11/MartinHalliwell_SES4X3-336x253.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161643",
+            "source" : "n12443",
+            "target" : "n12459"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12462",
+            "key" : "url:https://pbs.twimg.com/media/CO7ipYvWsAABtLC.jpg",
+            "name" : "url:https://pbs.twimg.com/media/CO7ipYvWsAABtLC.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161644",
+            "source" : "n12443",
+            "target" : "n12462"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12464",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/fb4/img_20150620_110140s.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/fb4/img_20150620_110140s.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161645",
+            "source" : "n12443",
+            "target" : "n12464"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12466",
+            "key" : "url:http://spacenews.com/wp-content/uploads/2015/02/SES-9_graphic_2015-380x253.png",
+            "name" : "url:http://spacenews.com/wp-content/uploads/2015/02/SES-9_graphic_2015-380x253.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161646",
+            "source" : "n12443",
+            "target" : "n12466"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12468",
+            "key" : "url:http://spacenews.com/wp-content/uploads/2015/05/Falcon-9-DSCOVR-Launch-879x485.jpg",
+            "name" : "url:http://spacenews.com/wp-content/uploads/2015/05/Falcon-9-DSCOVR-Launch-879x485.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161647",
+            "source" : "n12443",
+            "target" : "n12468"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12470",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=58367&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=58367&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161648",
+            "source" : "n12443",
+            "target" : "n12470"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12472",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.7702012115623802&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum12/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum12/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic14761/",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.7702012115623802&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum12/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum12/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic14761/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161649",
+            "source" : "n12443",
+            "target" : "n12472"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12474",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=926955826&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum12%2Ftopic14761%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SES-9%20-%20Falcon%209%20v1.1%20Upgraded%20-%20Canaveral%20SLC-40%20-%20%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C%202016&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=2037128797",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=926955826&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum12%2Ftopic14761%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SES-9%20-%20Falcon%209%20v1.1%20Upgraded%20-%20Canaveral%20SLC-40%20-%20%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C%202016&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=2037128797",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161650",
+            "source" : "n12443",
+            "target" : "n12474"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12476",
+            "key" : "url:http://spacenews.com/wp-content/uploads/2015/06/spaceX_drone_ship-879x485.jpg",
+            "name" : "url:http://spacenews.com/wp-content/uploads/2015/06/spaceX_drone_ship-879x485.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161651",
+            "source" : "n12443",
+            "target" : "n12476"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12478",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum12/;j=true;s=1326*1080;d=24;rand=0.5914233068469912",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum12/;j=true;s=1326*1080;d=24;rand=0.5914233068469912",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161652",
+            "source" : "n12443",
+            "target" : "n12478"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12480",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=58365&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=58365&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161653",
+            "source" : "n12443",
+            "target" : "n12480"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12482",
+            "key" : "url:https://pbs.twimg.com/profile_images/453570375889068032/ectA_OPy_bigger.jpeg",
+            "name" : "url:https://pbs.twimg.com/profile_images/453570375889068032/ectA_OPy_bigger.jpeg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161654",
+            "source" : "n12443",
+            "target" : "n12482"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161655",
+            "source" : "n12443",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12489",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum10/",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum10/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161656",
+            "source" : "n12405",
+            "target" : "n12489"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12491",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/closed-newposts.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/themes/white/images/closed-newposts.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161657",
+            "source" : "n12407",
+            "target" : "n12491"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12493",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=794231045&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum10%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D1%8B&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=705009220",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=794231045&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum10%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%D0%9F%D0%B8%D0%BB%D0%BE%D1%82%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B5%20%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D1%8B&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=705009220",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161658",
+            "source" : "n12489",
+            "target" : "n12493"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12495",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.21899828151799738&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/&r=http%3A//novosti-kosmonavtiki.ru/forum/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum10/",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.21899828151799738&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/&r=http%3A//novosti-kosmonavtiki.ru/forum/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum10/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161659",
+            "source" : "n12489",
+            "target" : "n12495"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12497",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/;j=true;s=1326*1080;d=24;rand=0.6558785818051547",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/;j=true;s=1326*1080;d=24;rand=0.6558785818051547",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161660",
+            "source" : "n12489",
+            "target" : "n12497"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161661",
+            "source" : "n12489",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12500",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161662",
+            "source" : "n12405",
+            "target" : "n12500"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12502",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.09081812808290124&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/&r=http%3A//novosti-kosmonavtiki.ru/forum/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.09081812808290124&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/&r=http%3A//novosti-kosmonavtiki.ru/forum/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161663",
+            "source" : "n12500",
+            "target" : "n12502"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12504",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1653268950&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%D0%A1%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%20%D0%B2%D1%8B%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=509759049",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1653268950&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%D0%A1%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0%20%D0%B2%D1%8B%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%B5%20%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=509759049",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161664",
+            "source" : "n12500",
+            "target" : "n12504"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12506",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/;j=true;s=1326*1080;d=24;rand=0.46643127710558474",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/;j=true;s=1326*1080;d=24;rand=0.46643127710558474",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161665",
+            "source" : "n12500",
+            "target" : "n12506"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161666",
+            "source" : "n12500",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12511",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum10/topic15120/",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum10/topic15120/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161668",
+            "source" : "n12489",
+            "target" : "n12511"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12513",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_66b2a89cf4781fa7226eaa7e7f3c33d1/page_66b2a89cf4781fa7226eaa7e7f3c33d1_760b11e3c645791f64a9da92de42b467.css?139644673449025",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_66b2a89cf4781fa7226eaa7e7f3c33d1/page_66b2a89cf4781fa7226eaa7e7f3c33d1_760b11e3c645791f64a9da92de42b467.css?139644673449025",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161669",
+            "source" : "n12511",
+            "target" : "n12513"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12515",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.2639659848064184&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum10/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum10/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum10/topic15120/",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.2639659848064184&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum10/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum10/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum10/topic15120/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161670",
+            "source" : "n12511",
+            "target" : "n12515"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12517",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/656/markserov_12.png",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/656/markserov_12.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161671",
+            "source" : "n12511",
+            "target" : "n12517"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12519",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_smile.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_smile.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161672",
+            "source" : "n12511",
+            "target" : "n12519"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12521",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/2f1/i-_3_.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/2f1/i-_3_.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161673",
+            "source" : "n12511",
+            "target" : "n12521"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12523",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum10/;j=true;s=1326*1080;d=24;rand=0.4521159171126783",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum10/;j=true;s=1326*1080;d=24;rand=0.4521159171126783",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161674",
+            "source" : "n12511",
+            "target" : "n12523"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12525",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1038540738&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum10%2Ftopic15120%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20Dragon%20SpX-9%20(CRS9)%20-%20Falcon%209%20v1.2%20-%20Canaveral%20SLC-40%20-%2021.03.2016&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=95827168",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1038540738&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum10%2Ftopic15120%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20Dragon%20SpX-9%20(CRS9)%20-%20Falcon%209%20v1.2%20-%20Canaveral%20SLC-40%20-%2021.03.2016&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=95827168",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161675",
+            "source" : "n12511",
+            "target" : "n12525"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12527",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_wink.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_wink.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161676",
+            "source" : "n12511",
+            "target" : "n12527"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12529",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/7ac/109646.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/7ac/109646.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161677",
+            "source" : "n12511",
+            "target" : "n12529"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12531",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/f54/2306.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/f54/2306.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161678",
+            "source" : "n12511",
+            "target" : "n12531"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12533",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=58968&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=58968&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161679",
+            "source" : "n12511",
+            "target" : "n12533"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12535",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/41a/25581123.jpeg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/41a/25581123.jpeg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161680",
+            "source" : "n12511",
+            "target" : "n12535"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161681",
+            "source" : "n12511",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12538",
+            "key" : "url:http://d1jqu7g1y74ds1.cloudfront.net/wp-content/uploads/2014/04/SpaceX-3_docking_7.jpg",
+            "name" : "url:http://d1jqu7g1y74ds1.cloudfront.net/wp-content/uploads/2014/04/SpaceX-3_docking_7.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161682",
+            "source" : "n12511",
+            "target" : "n12538"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161683",
+            "source" : "n12511",
+            "target" : "n12538"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12570",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic14761/?PAGEN_1=2",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic14761/?PAGEN_1=2",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161684",
+            "source" : "n12443",
+            "target" : "n12570"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12572",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_822c2b1677f0ecfe15ab50c5f2d43345/page_822c2b1677f0ecfe15ab50c5f2d43345_1ccc430be47072456f80efc5ab7cb29c.css?139644663242970",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_822c2b1677f0ecfe15ab50c5f2d43345/page_822c2b1677f0ecfe15ab50c5f2d43345_1ccc430be47072456f80efc5ab7cb29c.css?139644663242970",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161685",
+            "source" : "n12570",
+            "target" : "n12572"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12574",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=107912649&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum12%2Ftopic14761%2F%3FPAGEN_1%3D2&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SES-9%20-%20Falcon%209%20v1.1%20Upgraded%20-%20Canaveral%20SLC-40%20-%20%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C%202016&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=1922650587",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=107912649&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum12%2Ftopic14761%2F%3FPAGEN_1%3D2&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SES-9%20-%20Falcon%209%20v1.1%20Upgraded%20-%20Canaveral%20SLC-40%20-%20%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C%202016&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=1922650587",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161686",
+            "source" : "n12570",
+            "target" : "n12574"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12576",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.6293554035946727&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic14761/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic14761/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic14761/%3FPAGEN_1%3D2",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.6293554035946727&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic14761/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic14761/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic14761/%3FPAGEN_1%3D2",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161687",
+            "source" : "n12570",
+            "target" : "n12576"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12578",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic14761/;j=true;s=1326*1080;d=24;rand=0.24370590201579034",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic14761/;j=true;s=1326*1080;d=24;rand=0.24370590201579034",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161688",
+            "source" : "n12570",
+            "target" : "n12578"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161689",
+            "source" : "n12570",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12594",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic15213/",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic15213/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161695",
+            "source" : "n12500",
+            "target" : "n12594"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12596",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1554044273&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic15213%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C%20%D0%BA%D0%B0%D0%BA%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20%D0%BA%D0%B5%D0%B9%D1%81&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=1632699240",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1554044273&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic15213%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C%20%D0%BA%D0%B0%D0%BA%20%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%20%D0%BA%D0%B5%D0%B9%D1%81&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=1632699240",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161696",
+            "source" : "n12594",
+            "target" : "n12596"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12598",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/7e4/q.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/7e4/q.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161697",
+            "source" : "n12594",
+            "target" : "n12598"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12600",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/ef4/avatar.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/ef4/avatar.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161698",
+            "source" : "n12594",
+            "target" : "n12600"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12602",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/130/DSCN50662.JPG",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/130/DSCN50662.JPG",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161699",
+            "source" : "n12594",
+            "target" : "n12602"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12604",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_question.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_question.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161700",
+            "source" : "n12594",
+            "target" : "n12604"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12606",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/0fe/ciencia_3802.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/0fe/ciencia_3802.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161701",
+            "source" : "n12594",
+            "target" : "n12606"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12608",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.5301951230503619&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum13/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic15213/",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.5301951230503619&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum13/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic15213/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161702",
+            "source" : "n12594",
+            "target" : "n12608"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12610",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/;j=true;s=1326*1080;d=24;rand=0.4148415143135935",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/;j=true;s=1326*1080;d=24;rand=0.4148415143135935",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161703",
+            "source" : "n12594",
+            "target" : "n12610"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161704",
+            "source" : "n12594",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12613",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=60213&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=60213&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161705",
+            "source" : "n12594",
+            "target" : "n12613"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12617",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161706",
+            "source" : "n12500",
+            "target" : "n12617"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12619",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_eek.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_eek.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161707",
+            "source" : "n12617",
+            "target" : "n12619"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12621",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/2d4/2683592754fbfdc08196fa.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/2d4/2683592754fbfdc08196fa.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161708",
+            "source" : "n12617",
+            "target" : "n12621"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12623",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.9229328371584415&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum13/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.9229328371584415&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum13/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161709",
+            "source" : "n12617",
+            "target" : "n12623"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12625",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/;j=true;s=1326*1080;d=24;rand=0.4090084407944232",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/;j=true;s=1326*1080;d=24;rand=0.4090084407944232",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161710",
+            "source" : "n12617",
+            "target" : "n12625"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12627",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=992758992&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=1215736631",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=992758992&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=1215736631",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161711",
+            "source" : "n12617",
+            "target" : "n12627"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161712",
+            "source" : "n12617",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12630",
+            "key" : "url:http://www.spacex.com/graphics/content_v2/Falcon%20Chart%202.gif",
+            "name" : "url:http://www.spacex.com/graphics/content_v2/Falcon%20Chart%202.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161713",
+            "source" : "n12617",
+            "target" : "n12630"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12632",
+            "key" : "url:http://www.spacex.com/graphics/content_v2/F9%20Engine%20close.jpg",
+            "name" : "url:http://www.spacex.com/graphics/content_v2/F9%20Engine%20close.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161714",
+            "source" : "n12617",
+            "target" : "n12632"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161715",
+            "source" : "n12617",
+            "target" : "n12630"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12636",
+            "key" : "url:http://www.apollosaturn.com/s126.jpg",
+            "name" : "url:http://www.apollosaturn.com/s126.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161716",
+            "source" : "n12617",
+            "target" : "n12636"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161717",
+            "source" : "n12617",
+            "target" : "n12636"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12647",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic15213/?PAGEN_1=2",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic15213/?PAGEN_1=2",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161718",
+            "source" : "n12594",
+            "target" : "n12647"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12649",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_redface.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/images/forum/smile/icon_redface.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161719",
+            "source" : "n12594",
+            "target" : "n12649"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12651",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic15213/?PAGEN_1=3",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic15213/?PAGEN_1=3",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161720",
+            "source" : "n12594",
+            "target" : "n12651"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12653",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/c3c/1022.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/c3c/1022.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161721",
+            "source" : "n12594",
+            "target" : "n12653"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12756",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=538",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=538",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161732",
+            "source" : "n12617",
+            "target" : "n12756"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12758",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_6d899b7f9561cf368c4fad80192ef5f4/page_6d899b7f9561cf368c4fad80192ef5f4_2cc5d1ee4f409aff99e03c80d13fd775.css?139644664343249",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_6d899b7f9561cf368c4fad80192ef5f4/page_6d899b7f9561cf368c4fad80192ef5f4_2cc5d1ee4f409aff99e03c80d13fd775.css?139644664343249",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161733",
+            "source" : "n12756",
+            "target" : "n12758"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12760",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/images/plus.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/images/plus.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161734",
+            "source" : "n12758",
+            "target" : "n12760"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12762",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.5640698436181992&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D538",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.5640698436181992&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/&r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D538",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161735",
+            "source" : "n12756",
+            "target" : "n12762"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12764",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/player/mediaplayer/jwplayer.js",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/player/mediaplayer/jwplayer.js",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161736",
+            "source" : "n12756",
+            "target" : "n12764"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12766",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=2069321370&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D538&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=711357433",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=2069321370&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D538&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1309x943&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=711357433",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161737",
+            "source" : "n12756",
+            "target" : "n12766"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12768",
+            "key" : "url:http://spaceflightnow.com/wp-content/uploads/2016/01/10873_10156900233560131_7369611377938765614_n-2.jpg",
+            "name" : "url:http://spaceflightnow.com/wp-content/uploads/2016/01/10873_10156900233560131_7369611377938765614_n-2.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161738",
+            "source" : "n12756",
+            "target" : "n12768"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12770",
+            "key" : "url:http://spaceflightnow.com/wp-content/uploads/2016/01/23985921532_4dd511ae41_o.jpg",
+            "name" : "url:http://spaceflightnow.com/wp-content/uploads/2016/01/23985921532_4dd511ae41_o.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161739",
+            "source" : "n12756",
+            "target" : "n12770"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n12772",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/;j=true;s=1326*1080;d=24;rand=0.020843522856011987",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/;j=true;s=1326*1080;d=24;rand=0.020843522856011987",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161740",
+            "source" : "n12756",
+            "target" : "n12772"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161741",
+            "source" : "n12756",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n12918",
+            "key" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+falcon+9",
+            "name" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+falcon+9",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13142",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=536",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=536",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e161811",
+            "source" : "n12918",
+            "target" : "n13142"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13144",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.9982251017354429&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D536",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.9982251017354429&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D536",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161812",
+            "source" : "n13142",
+            "target" : "n13144"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13146",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.00955152790993452",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.00955152790993452",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161813",
+            "source" : "n13142",
+            "target" : "n13146"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13148",
+            "key" : "url:http://www.google-analytics.com/r/collect?v=1&_v=j40&a=476999572&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D536&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1047x754&je=1&_u=AACAAEABI~&jid=1268402601&cid=1027491010.1452119444&tid=UA-66670262-2&_r=1&z=995905115",
+            "name" : "url:http://www.google-analytics.com/r/collect?v=1&_v=j40&a=476999572&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D536&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1047x754&je=1&_u=AACAAEABI~&jid=1268402601&cid=1027491010.1452119444&tid=UA-66670262-2&_r=1&z=995905115",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161814",
+            "source" : "n13142",
+            "target" : "n13148"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161815",
+            "source" : "n13142",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13151",
+            "key" : "url:http://i.imgur.com/qqQt0Th.jpg",
+            "name" : "url:http://i.imgur.com/qqQt0Th.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161816",
+            "source" : "n13142",
+            "target" : "n13151"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13153",
+            "key" : "url:http://i.imgur.com/hJqgrBe.jpg",
+            "name" : "url:http://i.imgur.com/hJqgrBe.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161817",
+            "source" : "n13142",
+            "target" : "n13153"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13162",
+            "key" : "url:http://i.imgur.com/46R1gYV.jpg",
+            "name" : "url:http://i.imgur.com/46R1gYV.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161818",
+            "source" : "n13142",
+            "target" : "n13162"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13166",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic15003/?PAGEN_1=19",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum12/topic15003/?PAGEN_1=19",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e161819",
+            "source" : "n12918",
+            "target" : "n13166"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n13177",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=507",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=507",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e161820",
+            "source" : "n12918",
+            "target" : "n13177"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13179",
+            "key" : "url:https://farm6.staticflickr.com/5671/23908478245_8f9bcc9926_k.jpg",
+            "name" : "url:https://farm6.staticflickr.com/5671/23908478245_8f9bcc9926_k.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161821",
+            "source" : "n13166",
+            "target" : "n13179"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13182",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.9254491259343922&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic15003/%3FPAGEN_1%3D19",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.9254491259343922&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum12/topic15003/%3FPAGEN_1%3D19",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161822",
+            "source" : "n13166",
+            "target" : "n13182"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13184",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.8612682749517262",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.8612682749517262",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161823",
+            "source" : "n13166",
+            "target" : "n13184"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161824",
+            "source" : "n13166",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13188",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1933227196&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum12%2Ftopic15003%2F%3FPAGEN_1%3D19&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20Orbcomm%20G2%20(x11)%20-%20Falcon%209%20v1.2%20-%20Canaveral%20SLC-40%20-%2020.12.2015%2001%3A25%20UTC&sd=24-bit&sr=1326x1080&vp=1047x754&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=1582117578",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1933227196&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum12%2Ftopic15003%2F%3FPAGEN_1%3D19&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20Orbcomm%20G2%20(x11)%20-%20Falcon%209%20v1.2%20-%20Canaveral%20SLC-40%20-%2020.12.2015%2001%3A25%20UTC&sd=24-bit&sr=1326x1080&vp=1047x754&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=1582117578",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161825",
+            "source" : "n13166",
+            "target" : "n13188"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13198",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/a3f/avatar.jpg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/a3f/avatar.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161826",
+            "source" : "n13177",
+            "target" : "n13198"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13200",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=54666&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=54666&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161827",
+            "source" : "n13177",
+            "target" : "n13200"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13202",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.1978354388847947&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D507",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.1978354388847947&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D507",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161828",
+            "source" : "n13177",
+            "target" : "n13202"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13204",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.945363656617701",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.945363656617701",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161829",
+            "source" : "n13177",
+            "target" : "n13204"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13206",
+            "key" : "url:http://icdn.lenta.ru/images/2015/05/14/20/20150514201949149/preview_aad6c0c13c8ca7b6a1da135469986823.jpg",
+            "name" : "url:http://icdn.lenta.ru/images/2015/05/14/20/20150514201949149/preview_aad6c0c13c8ca7b6a1da135469986823.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161830",
+            "source" : "n13177",
+            "target" : "n13206"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n13208",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1855732667&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D507&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1047x754&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=441067567",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1855732667&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D507&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1047x754&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=441067567",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161831",
+            "source" : "n13177",
+            "target" : "n13208"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e161832",
+            "source" : "n13177",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n14038",
+            "key" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+\"30%\"+falcon",
+            "name" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+\"30%\"+falcon",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n14054",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/user/14860/post/all/?PAGEN_1=183",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/user/14860/post/all/?PAGEN_1=183",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e162190",
+            "source" : "n14038",
+            "target" : "n14054"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14056",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/page_be3ca8ce78c0f9b073995df824e6fd08/page_be3ca8ce78c0f9b073995df824e6fd08_802f7f6d491e7e7acb5d2d3a2912f676.js?139644674514944",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/js/s1/NK2/page_be3ca8ce78c0f9b073995df824e6fd08/page_be3ca8ce78c0f9b073995df824e6fd08_802f7f6d491e7e7acb5d2d3a2912f676.js?139644674514944",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162191",
+            "source" : "n14054",
+            "target" : "n14056"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14060",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_73bb48566ff36ad3be5a2f33546e08f8/page_73bb48566ff36ad3be5a2f33546e08f8_7406c5af79fd2d99a361d0e0b2362bac.css?139653182245280",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_73bb48566ff36ad3be5a2f33546e08f8/page_73bb48566ff36ad3be5a2f33546e08f8_7406c5af79fd2d99a361d0e0b2362bac.css?139653182245280",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162192",
+            "source" : "n14054",
+            "target" : "n14060"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14064",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/js/main/core/images/calendar-icon.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/js/main/core/images/calendar-icon.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162193",
+            "source" : "n14054",
+            "target" : "n14064"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14066",
+            "key" : "url:http://lpre.de/kbkha/RD-0120/img/RD-0120_mod_nozzle.jpg",
+            "name" : "url:http://lpre.de/kbkha/RD-0120/img/RD-0120_mod_nozzle.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162194",
+            "source" : "n14054",
+            "target" : "n14066"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14071",
+            "key" : "url:http://my-files.ru/Download/ji2i3v/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%BF%D0%BB%D0%B0.png",
+            "name" : "url:http://my-files.ru/Download/ji2i3v/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%BF%D0%BB%D0%B0.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162195",
+            "source" : "n14054",
+            "target" : "n14071"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14073",
+            "key" : "url:http://my-files.ru/Get/ji2i3v/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%BF%D0%BB%D0%B0.png",
+            "name" : "url:http://my-files.ru/Get/ji2i3v/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%BF%D0%BB%D0%B0.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162196",
+            "source" : "n14054",
+            "target" : "n14073"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14077",
+            "key" : "url:http://spacenews.com/wp-content/uploads/2015/02/Azerkosmos-control-center-lobby-879x485.jpg",
+            "name" : "url:http://spacenews.com/wp-content/uploads/2015/02/Azerkosmos-control-center-lobby-879x485.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162197",
+            "source" : "n14054",
+            "target" : "n14077"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162198",
+            "source" : "n14054",
+            "target" : "n14073"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14080",
+            "key" : "url:http://spacenews.com/wp-content/uploads/2015/02/Azercosmos-Satellite-Ground-Control-Station-copy-757x419.jpg",
+            "name" : "url:http://spacenews.com/wp-content/uploads/2015/02/Azercosmos-Satellite-Ground-Control-Station-copy-757x419.jpg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162199",
+            "source" : "n14054",
+            "target" : "n14080"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14085",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53077&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53077&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162200",
+            "source" : "n14054",
+            "target" : "n14085"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14087",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53080&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53080&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162201",
+            "source" : "n14054",
+            "target" : "n14087"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14089",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53078&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53078&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162202",
+            "source" : "n14054",
+            "target" : "n14089"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14093",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53074&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53074&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162203",
+            "source" : "n14054",
+            "target" : "n14093"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14095",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.019936507334932685&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/user/14860/post/all/%3FPAGEN_1%3D183",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.019936507334932685&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/user/14860/post/all/%3FPAGEN_1%3D183",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162204",
+            "source" : "n14054",
+            "target" : "n14095"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14097",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53075&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53075&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162205",
+            "source" : "n14054",
+            "target" : "n14097"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14099",
+            "key" : "url:http://my-files.ru/ji2i3v/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%BF%D0%BB%D0%B0.png",
+            "name" : "url:http://my-files.ru/ji2i3v/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%BF%D0%BB%D0%B0.png",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162206",
+            "source" : "n14054",
+            "target" : "n14099"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14101",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.39158325805328786",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.39158325805328786",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162207",
+            "source" : "n14054",
+            "target" : "n14101"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14103",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53076&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53076&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162208",
+            "source" : "n14054",
+            "target" : "n14103"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14105",
+            "key" : "url:http://www.google-analytics.com/r/collect?v=1&_v=j40&a=67478971&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fuser%2F14860%2Fpost%2Fall%2F%3FPAGEN_1%3D183&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20Salo%20(%D0%92%D1%81%D0%B5%20%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)&sd=24-bit&sr=1326x1080&vp=1047x754&je=1&_u=AACAAEABI~&jid=1227318141&cid=1027491010.1452119444&tid=UA-66670262-2&_r=1&z=1126351066",
+            "name" : "url:http://www.google-analytics.com/r/collect?v=1&_v=j40&a=67478971&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fuser%2F14860%2Fpost%2Fall%2F%3FPAGEN_1%3D183&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20Salo%20(%D0%92%D1%81%D0%B5%20%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)&sd=24-bit&sr=1326x1080&vp=1047x754&je=1&_u=AACAAEABI~&jid=1227318141&cid=1027491010.1452119444&tid=UA-66670262-2&_r=1&z=1126351066",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162209",
+            "source" : "n14054",
+            "target" : "n14105"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162210",
+            "source" : "n14054",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162211",
+            "source" : "n14054",
+            "target" : "n14099"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14112",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53072&width=500&height=500",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum.interface/show_file.php?fid=53072&width=500&height=500",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162212",
+            "source" : "n14054",
+            "target" : "n14112"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n14123",
+            "key" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+\"10..80+%\"+falcon",
+            "name" : "google:site:novosti-kosmonavtiki.ru+экономический+эффект+\"10..80+%\"+falcon",
+            "node_type" : "query",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "comment" : null,
+            "id" : "n14137",
+            "key" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=439",
+            "name" : "url:http://novosti-kosmonavtiki.ru/forum/forum13/topic2123/?PAGEN_1=439",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "filtered",
+         "data" : {
+            "edge_type" : "jump1",
+            "id" : "e162214",
+            "source" : "n14123",
+            "target" : "n14137"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14141",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_413201c1e1e32f2b2999fe6f82525629/page_413201c1e1e32f2b2999fe6f82525629_b56cd2ee845ef160ad5930dfa0f6d271.css?139644669343249",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/cache/css/s1/NK2/page_413201c1e1e32f2b2999fe6f82525629/page_413201c1e1e32f2b2999fe6f82525629_b56cd2ee845ef160ad5930dfa0f6d271.css?139644669343249",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162216",
+            "source" : "n14137",
+            "target" : "n14141"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14143",
+            "key" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/a47/1501259.jpeg",
+            "name" : "url:http://novosti-kosmonavtiki.ru/upload/forum/avatar/a47/1501259.jpeg",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162217",
+            "source" : "n14137",
+            "target" : "n14143"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14145",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.36735835182480514&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D439",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.36735835182480514&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=https%3A//www.google.com/&r=https%3A//www.google.com/&fr=0&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D439",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162218",
+            "source" : "n14137",
+            "target" : "n14145"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14147",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.6806053745094687",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=https%3A//www.google.com/;j=true;s=1326*1080;d=24;rand=0.6806053745094687",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162219",
+            "source" : "n14137",
+            "target" : "n14147"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n14149",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=802417053&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D439&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1047x754&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=793166",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=802417053&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D439&dr=https%3A%2F%2Fwww.google.com%2F&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1047x754&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=793166",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162220",
+            "source" : "n14137",
+            "target" : "n14149"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162221",
+            "source" : "n14137",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n15419",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D522;j=true;s=1326*1080;d=24;rand=0.40074978210031986",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D522;j=true;s=1326*1080;d=24;rand=0.40074978210031986",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162723",
+            "source" : "n13142",
+            "target" : "n15419"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n15421",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1002245517&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D536&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1287x150&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=962047331",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=1002245517&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D536&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1287x150&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=962047331",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162724",
+            "source" : "n13142",
+            "target" : "n15421"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n15423",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.34921657713130116&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D524&r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D522&fr=1&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D536",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.34921657713130116&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D524&r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D522&fr=1&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D536",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162725",
+            "source" : "n13142",
+            "target" : "n15423"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162728",
+            "source" : "n13142",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n15442",
+            "key" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=2067021290&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D538&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1287x150&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=1069954463",
+            "name" : "url:http://www.google-analytics.com/collect?v=1&_v=j40&a=2067021290&t=pageview&_s=1&dl=http%3A%2F%2Fnovosti-kosmonavtiki.ru%2Fforum%2Fforum13%2Ftopic2123%2F%3FPAGEN_1%3D538&ul=en-us&de=UTF-8&dt=%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8%20%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8%D0%BA%D0%B8%20-%20SpaceX%20Falcon%209&sd=24-bit&sr=1326x1080&vp=1287x150&je=1&_u=AACAAEABI~&jid=&cid=1027491010.1452119444&tid=UA-66670262-2&z=1069954463",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162736",
+            "source" : "n12756",
+            "target" : "n15442"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n15444",
+            "key" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D522;j=true;s=1326*1080;d=24;rand=0.9883531127125025",
+            "name" : "url:http://top.list.ru/counter?id=664899;t=56;js=13;r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D522;j=true;s=1326*1080;d=24;rand=0.9883531127125025",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162737",
+            "source" : "n12756",
+            "target" : "n15444"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n15450",
+            "key" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.5493598075117916&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D524&r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D522&fr=1&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D538",
+            "name" : "url:http://u1606.42.spylog.com/cnt?cid=160642&p=0&rn=0.5493598075117916&c=1&t=-600&j=Y&wh=1326x1080&px=24&sl=1.3&r1=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D524&r=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D522&fr=1&pg=http%3A//novosti-kosmonavtiki.ru/forum/forum13/topic2123/%3FPAGEN_1%3D538",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162740",
+            "source" : "n12756",
+            "target" : "n15450"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162741",
+            "source" : "n12756",
+            "target" : "n12326"
+         },
+         "group" : "edges"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "comment" : null,
+            "id" : "n16299",
+            "key" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/images/minus.gif",
+            "name" : "url:http://novosti-kosmonavtiki.ru/bitrix/components/bitrix/forum/templates/.default/images/minus.gif",
+            "node_type" : "url",
+            "rating" : null,
+            "relevance" : null
+         },
+         "group" : "nodes"
+      },
+      {
+         "classes" : "",
+         "data" : {
+            "edge_type" : "referer",
+            "id" : "e162800",
+            "source" : "n12758",
+            "target" : "n16299"
+         },
+         "group" : "edges"
+      }
+   ],
+   "test" : 4,
+   "testdata" : 1
+}
